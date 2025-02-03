@@ -79,18 +79,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-day-472-well",
-      
-        title: "Day 472: Well ...",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2025/01/07/day-472-well/";
-        
-      },
-    },{id: "post-day-471-back-to-work",
+            },{id: "post-day-471-back-to-work",
       
         title: "Day 471: Back to Work",
       
@@ -198,17 +187,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2024/12/13/day-465-progress-update/";
-        
-      },
-    },{id: "post-day-464-megalophobia",
-      
-        title: "Day 464: Megalophobia",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/12/12/day-464-megalophobia/";
         
       },
     },{id: "post-day-463-a-funny-idea",
@@ -519,17 +497,6 @@ ninja.data = [{
           window.location.href = "/2024/11/01/day-435-over-editing/";
         
       },
-    },{id: "post-day-434-happy-halloween",
-      
-        title: "Day 434: Happy Halloween!",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/10/31/day-434-happy-halloween/";
-        
-      },
     },{id: "post-day-433-insidious-ch-3",
       
         title: "Day 433: Insidious Ch. 3",
@@ -629,17 +596,6 @@ ninja.data = [{
           window.location.href = "/2024/10/18/day-425-style-and-visualization/";
         
       },
-    },{id: "post-day-424-a-new-toy",
-      
-        title: "Day 424: A New Toy",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/10/17/day-424-a-new-toy/";
-        
-      },
     },{id: "post-day-423-the-thing",
       
         title: "Day 423: The Thing",
@@ -737,17 +693,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2024/10/04/day-415-jane-eyre/";
-        
-      },
-    },{id: "post-day-414-late-night-post",
-      
-        title: "Day 414: Late Night Post!",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/10/03/day-414-late-night-post/";
         
       },
     },{id: "post-day-413-progress-update",
@@ -871,17 +816,6 @@ ninja.data = [{
           window.location.href = "/2024/09/18/day-403-north-woods/";
         
       },
-    },{id: "post-day-402-aliens",
-      
-        title: "Day 402: Aliens",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/09/17/day-402-aliens/";
-        
-      },
     },{id: "post-day-401-rainy-days",
       
         title: "Day 401: Rainy Days",
@@ -891,17 +825,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2024/09/16/day-401-rainy-days/";
-        
-      },
-    },{id: "post-day-400-north-woods-first-impressions",
-      
-        title: "Day 400: North Woods First Impressions",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/09/13/day-400-north-woods-first-impressions/";
         
       },
     },{id: "post-day-399-mmm-donuts",
@@ -1199,17 +1122,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2024/08/07/day-373-the-forge-of-god-first-impressions/";
-        
-      },
-    },{id: "post-day-372-the-idiot-plot",
-      
-        title: "Day 372: The Idiot Plot",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/08/06/day-372-the-idiot-plot/";
         
       },
     },{id: "post-day-371-elder-race-first-impressions",
@@ -1762,17 +1674,6 @@ ninja.data = [{
           window.location.href = "/2024/05/28/day-322-progress-update/";
         
       },
-    },{id: "post-day-321-don-juan-and-the-evolution-of-memes",
-      
-        title: "Day 321: Don Juan and the Evolution of Memes",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/05/27/day-321-don-juan-and-the-evolution-of-memes/";
-        
-      },
     },{id: "post-day-320-negative-space",
       
         title: "Day 320: Negative Space",
@@ -1826,17 +1727,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2024/05/20/day-316-run-forest/";
-        
-      },
-    },{id: "post-day-315-scum-and-villainy",
-      
-        title: "Day 315: Scum and Villainy",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/05/17/day-315-scum-and-villainy/";
         
       },
     },{id: "post-day-314-valhalla-rising",
@@ -2015,50 +1905,6 @@ ninja.data = [{
           window.location.href = "/2024/04/29/day-301-the-forest-for-the-trees/";
         
       },
-    },{id: "post-day-300-how-machines-learn-pt-4",
-      
-        title: "Day 300: How Machines Learn pt. 4",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/04/26/day-300-how-machines-learn-pt-4/";
-        
-      },
-    },{id: "post-day-299-how-machines-learn-pt-3",
-      
-        title: "Day 299: How Machines Learn pt. 3",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/04/25/day-299-how-machines-learn-pt-3/";
-        
-      },
-    },{id: "post-day-298-how-machines-learn-pt-2",
-      
-        title: "Day 298: How Machines Learn Pt. 2",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/04/24/day-298-how-machines-learn-pt-2/";
-        
-      },
-    },{id: "post-day-297-how-machines-learn",
-      
-        title: "Day 297: How Machines Learn",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/04/23/day-297-how-machines-learn/";
-        
-      },
     },{id: "post-day-296-what-makes-a-good-techno-thriller",
       
         title: "Day 296: What Makes a Good Techno-Thriller?",
@@ -2200,17 +2046,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2024/04/04/day-284-writing-smart-and-stupid/";
-        
-      },
-    },{id: "post-day-283-site-upgrades",
-      
-        title: "Day 283: Site Upgrades",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/04/03/day-283-site-upgrades/";
         
       },
     },{id: "post-day-282-book-haul",
@@ -2422,17 +2257,6 @@ ninja.data = [{
           window.location.href = "/2024/03/07/day-264-the-covenant-of-water/";
         
       },
-    },{id: "post-day-263-the-setting-of-39-the-covenant-of-water-39",
-      
-        title: "Day 263: The Setting of &#39;The Covenant of Water&#39;",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/03/06/day-263-the-setting-of-the-covenant-of-water/";
-        
-      },
     },{id: "post-day-262-rodney-dangerfield",
       
         title: "Day 262: Rodney Dangerfield",
@@ -2475,17 +2299,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2024/02/29/day-259-happy-leap-day/";
-        
-      },
-    },{id: "post-day-258-crop-circles-and-the-nature-of-mystery",
-      
-        title: "Day 258: Crop Circles and the Nature of Mystery",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/02/28/day-258-crop-circles-and-the-nature-of-mystery/";
         
       },
     },{id: "post-day-257-progress-update",
@@ -2651,17 +2464,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2024/02/07/day-242-the-fourth-wing-first-impressions/";
-        
-      },
-    },{id: "post-day-242-computer-trouble",
-      
-        title: "Day 242: Computer Trouble",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/02/06/day-242-computer-trouble/";
         
       },
     },{id: "post-day-241-book-haul",
@@ -2893,17 +2695,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2024/01/08/day-221-power-nap/";
-        
-      },
-    },{id: "post-day-220-boring-spacecraft",
-      
-        title: "Day 220: Boring Spacecraft",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2024/01/05/day-220-boring-spacecraft/";
         
       },
     },{id: "post-day-219-everything-everywhere-all-at-once",
@@ -3291,17 +3082,6 @@ ninja.data = [{
           window.location.href = "/2023/11/17/day-185-ugh/";
         
       },
-    },{id: "post-day-184-magic",
-      
-        title: "Day 184: Magic",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/11/16/day-184-magic/";
-        
-      },
     },{id: "post-day-183-story-archetypes",
       
         title: "Day 183: Story Archetypes",
@@ -3454,17 +3234,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2023/10/27/day-170-progress-update/";
-        
-      },
-    },{id: "post-day-169-spacecraft",
-      
-        title: "Day 169: Spacecraft",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/10/26/day-169-spacecraft/";
         
       },
     },{id: "post-day-168-the-hunt-for-red-october-first-impressions",
@@ -3676,28 +3445,6 @@ ninja.data = [{
           window.location.href = "/2023/09/29/day-150-day-150/";
         
       },
-    },{id: "post-day-149-how-many-stories-are-there",
-      
-        title: "Day 149: How Many Stories Are There?",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/09/28/day-149-how-many-stories-are-there/";
-        
-      },
-    },{id: "post-day-148-whiplash",
-      
-        title: "Day 148: Whiplash",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/09/27/day-148-whiplash/";
-        
-      },
     },{id: "post-day-147-finishing-a-character-arc",
       
         title: "Day 147: Finishing a Character Arc",
@@ -3707,17 +3454,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2023/09/26/day-147-finishing-a-character-arc/";
-        
-      },
-    },{id: "post-day-146-why-say-lot-word",
-      
-        title: "Day 146: Why Say Lot Word?",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/09/25/day-146-why-say-lot-word/";
         
       },
     },{id: "post-day-145-small-update",
@@ -3786,17 +3522,6 @@ ninja.data = [{
           window.location.href = "/2023/09/15/day-140-the-real-reason-i-havent-finished-a-novel-yet/";
         
       },
-    },{id: "post-day-139-thematic-mystery-and-the-force",
-      
-        title: "Day 139: Thematic Mystery and the Force",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/09/14/day-139-thematic-mystery-and-the-force/";
-        
-      },
     },{id: "post-day-138-progress-update",
       
         title: "Day 138: Progress Update",
@@ -3839,17 +3564,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2023/09/08/day-135-progress-update/";
-        
-      },
-    },{id: "post-day-134-power-armor",
-      
-        title: "Day 134: Power Armor",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/09/07/day-134-power-armor/";
         
       },
     },{id: "post-day-133-timeline-first-impressions",
@@ -3907,17 +3621,6 @@ ninja.data = [{
           window.location.href = "/2023/08/31/day-129-moon-landing-conspiracy-theorists/";
         
       },
-    },{id: "post-day-128-hurricanes",
-      
-        title: "Day 128: Hurricanes",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/08/30/day-128-hurricanes/";
-        
-      },
     },{id: "post-day-127-thoughts-on-oneiromancer",
       
         title: "Day 127: Thoughts on Oneiromancer",
@@ -3927,17 +3630,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2023/08/29/day-127-thoughts-on-oneiromancer/";
-        
-      },
-    },{id: "post-day-126-nexus-first-impressions",
-      
-        title: "Day 126: Nexus First Impressions",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/08/28/day-125-nexus-first-impressions/";
         
       },
     },{id: "post-day-125-progress-update",
@@ -3973,28 +3665,6 @@ ninja.data = [{
           window.location.href = "/2023/08/23/day-123-beloved/";
         
       },
-    },{id: "post-day-122-erik-satie",
-      
-        title: "Day 122: Erik Satie",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/08/22/day-122-erik-satie/";
-        
-      },
-    },{id: "post-day-121-the-fifth-element",
-      
-        title: "Day 121: The Fifth Element",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/08/21/day-121-the-fifth-element/";
-        
-      },
     },{id: "post-day-120-derailing-the-plot-exercise",
       
         title: "Day 120: Derailing the Plot Exercise",
@@ -4015,17 +3685,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2023/08/17/day-119-progress-update/";
-        
-      },
-    },{id: "post-day-118-mental-disorders-in-media",
-      
-        title: "Day 118: Mental Disorders in Media",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/08/16/day-118-mental-disorders-in-media/";
         
       },
     },{id: "post-post-117-baldur-39-s-gate-3",
@@ -4158,17 +3817,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2023/07/31/day-106-interstellar/";
-        
-      },
-    },{id: "post-day-105-congress-and-ufos",
-      
-        title: "Day 105: Congress and UFOs?!?",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/07/28/day-105-congress-and-ufos/";
         
       },
     },{id: "post-day-104-beloved-first-impressions",
@@ -4908,28 +4556,6 @@ ninja.data = [{
           window.location.href = "/2023/04/27/day-39-progress-update/";
         
       },
-    },{id: "post-day-38-humor-in-fiction-pt-2",
-      
-        title: "Day 38: Humor in Fiction Pt. 2",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/04/26/day-38-humor-in-fiction-pt-2/";
-        
-      },
-    },{id: "post-day-37-humor-in-fiction-pt-1",
-      
-        title: "Day 37: Humor in Fiction Pt. 1",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/04/25/day-37-humor-in-fiction-pt-1/";
-        
-      },
     },{id: "post-day-36-the-notorious-jumping-frog-of-calaveras-county",
       
         title: "Day 36: The Notorious Jumping Frog of Calaveras County",
@@ -4939,17 +4565,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2023/04/24/day-36/";
-        
-      },
-    },{id: "post-day-35-early-writing-tools",
-      
-        title: "Day 35: Early Writing Tools",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2023/04/21/day-35-early-writing-tools/";
         
       },
     },{id: "post-day-34-progress-update",
