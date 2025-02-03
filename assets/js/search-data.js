@@ -37,7 +37,194 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-471-back-to-work",
+            },{id: "post-day-489-third-thumb",
+      
+        title: "Day 489: Third Thumb",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/30/day-489-third-thumb/";
+        
+      },
+    },{id: "post-day-488-almost-missed-one",
+      
+        title: "Day 488: Almost Missed One!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/29/day-488-almost-missed-one/";
+        
+      },
+    },{id: "post-day-487-locking-the-door",
+      
+        title: "Day 487: Locking the Door",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/28/day-487-locking-the-door/";
+        
+      },
+    },{id: "post-day-486-quick-progress-update",
+      
+        title: "Day 486: Quick Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/27/day-486-quick-progress-update/";
+        
+      },
+    },{id: "post-day-485-blood-music-reread",
+      
+        title: "Day 485: Blood Music Reread",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/24/day-485-blood-music-reread/";
+        
+      },
+    },{id: "post-day-484-it-is-freezing",
+      
+        title: "Day 484: It is Freezing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/23/day-484-it-is-freezing/";
+        
+      },
+    },{id: "post-day-483-jade-legacy",
+      
+        title: "Day 483: Jade Legacy",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/22/day-483-jade-legacy/";
+        
+      },
+    },{id: "post-day-482-writing-conference",
+      
+        title: "Day 482: Writing Conference",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/21/day-482-writing-conference/";
+        
+      },
+    },{id: "post-day-481-my-writing-battles-submission",
+      
+        title: "Day 481: My Writing Battles Submission",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/20/day-481-my-writing-battles-submission/";
+        
+      },
+    },{id: "post-day-480-word-count-woes-pt-2",
+      
+        title: "Day 480: Word Count Woes Pt. 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/17/day-480-word-count-woes-pt-2/";
+        
+      },
+    },{id: "post-day-479-severance",
+      
+        title: "Day 479: Severance",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/16/day-479-severance/";
+        
+      },
+    },{id: "post-day-478-progress-update",
+      
+        title: "Day 478: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/15/day-478-progress-update/";
+        
+      },
+    },{id: "post-day-477-word-count-woes",
+      
+        title: "Day 477: Word Count Woes",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/14/day-477-word-count-woes/";
+        
+      },
+    },{id: "post-day-476-writing-battle",
+      
+        title: "Day 476: Writing Battle",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/13/day-476-writing-battle/";
+        
+      },
+    },{id: "post-day-475-snow-day",
+      
+        title: "Day 475: Snow Day!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/10/day-475-snow-day/";
+        
+      },
+    },{id: "post-day-474-the-best-american-short-stories-of-the-century",
+      
+        title: "Day 474: The Best American Short Stories of the Century",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/09/day-474-the-best-american-short-stories-of-the-century/";
+        
+      },
+    },{id: "post-day-473-patience-grasshopper",
+      
+        title: "Day 473: Patience Grasshopper",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/08/day-473-patience-grasshopper/";
+        
+      },
+    },{id: "post-day-471-back-to-work",
       
         title: "Day 471: Back to Work",
       
