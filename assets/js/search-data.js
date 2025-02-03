@@ -79,15 +79,1797 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-day-472-well",
       
-        title: "a post with image galleries",
+        title: "Day 472: Well ...",
       
-      description: "this is what included image galleries could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/photo-gallery/";
+          window.location.href = "/2025/01/07/day-472-well/";
+        
+      },
+    },{id: "post-day-471-back-to-work",
+      
+        title: "Day 471: Back to Work",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/06/day-471-back-to-work/";
+        
+      },
+    },{id: "post-happy-friday",
+      
+        title: "Happy Friday",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/03/happy-friday/";
+        
+      },
+    },{id: "post-mr-hyde",
+      
+        title: "Mr. Hyde",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/02/mr-hyde/";
+        
+      },
+    },{id: "post-happy-new-year",
+      
+        title: "Happy New Year!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/01/happy-new-year/";
+        
+      },
+    },{id: "post-day-470-holiday-update",
+      
+        title: "Day 470: Holiday Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/20/day-470-holiday-update/";
+        
+      },
+    },{id: "post-day-469-editors-on-editing",
+      
+        title: "Day 469: Editors on Editing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/19/day-469-editors-on-editing/";
+        
+      },
+    },{id: "post-day-468-horse-nor-ass",
+      
+        title: "Day 468: Horse nor Ass",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/18/day-468-horse-nor-ass/";
+        
+      },
+    },{id: "post-day-467-kill-your-darlings",
+      
+        title: "Day 467: Kill Your Darlings",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/17/day-467-kill-your-darlings/";
+        
+      },
+    },{id: "post-day-466-jade-city",
+      
+        title: "Day 466: Jade City",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/16/day-466-jade-city/";
+        
+      },
+    },{id: "post-day-465-progress-update",
+      
+        title: "Day 465: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/13/day-465-progress-update/";
+        
+      },
+    },{id: "post-day-464-megalophobia",
+      
+        title: "Day 464: Megalophobia",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/12/day-464-megalophobia/";
+        
+      },
+    },{id: "post-day-463-a-funny-idea",
+      
+        title: "Day 463: A Funny Idea",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/11/day-463-a-funny-idea/";
+        
+      },
+    },{id: "post-day-462-jade-city-first-impressions",
+      
+        title: "Day 462: Jade City First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/10/day-462-jade-city-first-impressions/";
+        
+      },
+    },{id: "post-day-461-update-on-the-book-haul",
+      
+        title: "Day 461: Update On the Book Haul",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/09/day-461-update-on-the-book-haul/";
+        
+      },
+    },{id: "post-day-460-progress-update",
+      
+        title: "Day 460: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/06/day-460-progress-update/";
+        
+      },
+    },{id: "post-day-459-crazy-plot-twists-pt-3",
+      
+        title: "Day 459: Crazy Plot Twists Pt. 3",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/05/day-459-crazy-plot-twists-pt-3/";
+        
+      },
+    },{id: "post-day-458-crazy-twists-pt-2",
+      
+        title: "Day 458: Crazy Twists Pt. 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/04/day-458-crazy-twists-pt-2/";
+        
+      },
+    },{id: "post-day-457-delay-on-twists-pt-2",
+      
+        title: "Day 457: Delay on Twists Pt. 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/03/day-457-delay-on-twists-pt-2/";
+        
+      },
+    },{id: "post-day-456-crazy-twists-pt-1",
+      
+        title: "Day 456: Crazy Twists Pt. 1",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/12/02/day-456-crazy-twists-pt-1/";
+        
+      },
+    },{id: "post-day-455-update-on-my-3d-printer",
+      
+        title: "Day 455: Update on My 3D Printer",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/29/day-455-update-on-my-3d-printer/";
+        
+      },
+    },{id: "post-day-454-happy-thanksgiving",
+      
+        title: "Day 454: Happy Thanksgiving!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/28/day-454-happy-thanksgiving/";
+        
+      },
+    },{id: "post-day-453-all-bets-are-off",
+      
+        title: "Day 453: All Bets Are Off",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/27/day-453-all-bets-are-off/";
+        
+      },
+    },{id: "post-day-452-story-fix-transform-your-novel-from-broken-to-brilliant",
+      
+        title: "Day 452: Story Fix: Transform Your Novel from Broken to Brilliant",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/26/day-452-story-fix-transform-your-novel-from-broken-to-brilliant/";
+        
+      },
+    },{id: "post-day-451-progress-update",
+      
+        title: "Day 451: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/25/day-451-progress-update/";
+        
+      },
+    },{id: "post-day-450-another-milestone",
+      
+        title: "Day 450: Another Milestone!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/22/day-450-another-milestone/";
+        
+      },
+    },{id: "post-day-449-concept-vs-premise",
+      
+        title: "Day 449: Concept VS Premise",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/21/day-449-concept-vs-premise/";
+        
+      },
+    },{id: "post-day-448-book-haul",
+      
+        title: "Day 448: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/20/day-448-book-haul/";
+        
+      },
+    },{id: "post-day-447-the-cuckoo-39-s-calling",
+      
+        title: "Day 447: The Cuckoo&#39;s Calling",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/19/day-447-the-cuckoos-calling/";
+        
+      },
+    },{id: "post-day-446-competitions-in-progress",
+      
+        title: "Day 446: Competitions in Progress",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/18/day-446-competitions-in-progress/";
+        
+      },
+    },{id: "post-day-445-long-day-quick-update",
+      
+        title: "Day 445: Long Day, Quick Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/15/day-445-long-day-quick-update/";
+        
+      },
+    },{id: "post-day-444-progress-update",
+      
+        title: "Day 444: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/14/day-444-progress-update/";
+        
+      },
+    },{id: "post-day-443-reverse-tropes",
+      
+        title: "Day 443: Reverse Tropes",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/13/day-443-reverse-tropes/";
+        
+      },
+    },{id: "post-day-442-the-editing-continues",
+      
+        title: "Day 442: The Editing Continues",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/12/day-442-the-editing-continues/";
+        
+      },
+    },{id: "post-day-441-beta-reading",
+      
+        title: "Day 441: Beta Reading",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/11/day-441-beta-reading/";
+        
+      },
+    },{id: "post-day-440-happy-friday",
+      
+        title: "Day 440: Happy Friday",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/08/day-440-happy-friday/";
+        
+      },
+    },{id: "post-day-439-electricity-is-magic",
+      
+        title: "Day 439: Electricity is Magic",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/07/day-439-electricity-is-magic/";
+        
+      },
+    },{id: "post-day-438-progress-update",
+      
+        title: "Day 438: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/06/day-438-progress-update/";
+        
+      },
+    },{id: "post-day-436-the-cuckoo-39-s-calling-first-impressions",
+      
+        title: "Day 436: The Cuckoo&#39;s Calling First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/04/day-436-the-cuckoos-calling-first-impressions/";
+        
+      },
+    },{id: "post-day-435-over-editing",
+      
+        title: "Day 435: Over Editing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/11/01/day-435-over-editing/";
+        
+      },
+    },{id: "post-day-434-happy-halloween",
+      
+        title: "Day 434: Happy Halloween!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/31/day-434-happy-halloween/";
+        
+      },
+    },{id: "post-day-433-insidious-ch-3",
+      
+        title: "Day 433: Insidious Ch. 3",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/30/day-433-insidious-ch-3/";
+        
+      },
+    },{id: "post-day-432-watching-the-world-go-by",
+      
+        title: "Day 432: Watching the World Go By",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/29/day-432-watching-the-world-go-by/";
+        
+      },
+    },{id: "post-day-431-editing-jeffries",
+      
+        title: "Day 431: Editing Jeffries",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/28/day-431-editing-jeffries/";
+        
+      },
+    },{id: "post-day-430-what-the-river-buries",
+      
+        title: "Day 430: What the River Buries",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/25/day-430-what-the-river-buries/";
+        
+      },
+    },{id: "post-day-429-quick-update",
+      
+        title: "Day 429: Quick Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/24/day-429-quick-update/";
+        
+      },
+    },{id: "post-day-428-the-endless",
+      
+        title: "Day 428: The Endless",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/23/day-428-the-endless/";
+        
+      },
+    },{id: "post-day-427-looking-for-inspiration",
+      
+        title: "Day 427: Looking for Inspiration",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/22/day-427-looking-for-inspiration/";
+        
+      },
+    },{id: "post-day-426-progress-update",
+      
+        title: "Day 426: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/21/day-426-progress-update/";
+        
+      },
+    },{id: "post-day-425-style-and-visualization",
+      
+        title: "Day 425: Style and Visualization",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/18/day-425-style-and-visualization/";
+        
+      },
+    },{id: "post-day-424-a-new-toy",
+      
+        title: "Day 424: A New Toy",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/17/day-424-a-new-toy/";
+        
+      },
+    },{id: "post-day-423-the-thing",
+      
+        title: "Day 423: The Thing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/16/day-423-the-thing/";
+        
+      },
+    },{id: "post-day-422-write-off",
+      
+        title: "Day 422: Write Off",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/15/day-422-write-off/";
+        
+      },
+    },{id: "post-day-421-killer-robots",
+      
+        title: "Day 421: Killer Robots",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/14/day-421-killer-robots/";
+        
+      },
+    },{id: "post-day-420-what-the-river-buries-first-impressions",
+      
+        title: "Day 420: What the River Buries First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/11/day-420-what-the-river-buries-first-impressions/";
+        
+      },
+    },{id: "post-day-419-making-shapely-fiction-again",
+      
+        title: "Day 419: Making Shapely Fiction (Again)",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/10/day-419-making-shapely-fiction-again/";
+        
+      },
+    },{id: "post-day-418-progress-update",
+      
+        title: "Day 418: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/09/day-418-progress-update/";
+        
+      },
+    },{id: "post-day-417-the-wendigo",
+      
+        title: "Day 417: The Wendigo",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/08/day-417-the-wendigo/";
+        
+      },
+    },{id: "post-day-416-the-willows",
+      
+        title: "Day 416: The Willows",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/07/day-416-the-willows/";
+        
+      },
+    },{id: "post-day-415-jane-eyre",
+      
+        title: "Day 415: Jane Eyre",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/04/day-415-jane-eyre/";
+        
+      },
+    },{id: "post-day-414-late-night-post",
+      
+        title: "Day 414: Late Night Post!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/03/day-414-late-night-post/";
+        
+      },
+    },{id: "post-day-413-progress-update",
+      
+        title: "Day 413: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/02/day-413-progress-update/";
+        
+      },
+    },{id: "post-day-412-what-i-39-ve-learned-so-far",
+      
+        title: "Day 412: What I&#39;ve Learned So Far",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/10/01/day-412-what-ive-learned-so-far/";
+        
+      },
+    },{id: "post-day-411-modern-art",
+      
+        title: "Day 411: Modern Art",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/30/day-411-modern-art/";
+        
+      },
+    },{id: "post-day-410-jane-eyre-first-impressions",
+      
+        title: "Day 410: Jane Eyre First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/27/day-410-jane-eyre-first-impressions/";
+        
+      },
+    },{id: "post-day-409-ordering-books-sucks",
+      
+        title: "Day 409: Ordering Books Sucks",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/26/day-409-ordering-books-sucks/";
+        
+      },
+    },{id: "post-day-408-progress-update",
+      
+        title: "Day 408: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/25/day-408-progress-update/";
+        
+      },
+    },{id: "post-day-407-genius-and-insanity",
+      
+        title: "Day 407: Genius and Insanity",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/24/day-407-genius-and-insanity/";
+        
+      },
+    },{id: "post-day-406-book-haul",
+      
+        title: "Day 406: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/23/day-406-book-haul/";
+        
+      },
+    },{id: "post-day-405-progress-update",
+      
+        title: "Day 405: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/20/day-405-progress-update/";
+        
+      },
+    },{id: "post-day-404-the-importance-of-variety",
+      
+        title: "Day 404: The Importance of Variety",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/19/day-404-the-importance-of-variety/";
+        
+      },
+    },{id: "post-day-403-north-woods",
+      
+        title: "Day 403: North Woods",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/18/day-403-north-woods/";
+        
+      },
+    },{id: "post-day-402-aliens",
+      
+        title: "Day 402: Aliens",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/17/day-402-aliens/";
+        
+      },
+    },{id: "post-day-401-rainy-days",
+      
+        title: "Day 401: Rainy Days",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/16/day-401-rainy-days/";
+        
+      },
+    },{id: "post-day-400-north-woods-first-impressions",
+      
+        title: "Day 400: North Woods First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/13/day-400-north-woods-first-impressions/";
+        
+      },
+    },{id: "post-day-399-mmm-donuts",
+      
+        title: "Day 399: Mmm, Donuts",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/12/day-399-mmm-donuts/";
+        
+      },
+    },{id: "post-day-398-progress-update",
+      
+        title: "Day 398: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/11/day-398-progress-update/";
+        
+      },
+    },{id: "post-day-397-edge-of-tomorrow",
+      
+        title: "Day 397: Edge of Tomorrow",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/10/day-397-edge-of-tomorrow/";
+        
+      },
+    },{id: "post-day-396-don-39-t-ask-the-blind-guy-for-directions-first-impressions",
+      
+        title: "Day 396: Don&#39;t Ask the Blind Guy For Directions First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/09/day-396-dont-ask-the-blind-guy-for-directions-first-impressions/";
+        
+      },
+    },{id: "post-day-395-us-against-you",
+      
+        title: "Day 395: Us Against You",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/06/day-395-us-against-you/";
+        
+      },
+    },{id: "post-day-394-progress-update",
+      
+        title: "Day 394: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/05/day-394-progress-update/";
+        
+      },
+    },{id: "post-day-393-found-a-local-writer-39-s-group-finally",
+      
+        title: "Day 393: Found a Local Writer&#39;s Group (Finally)",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/04/day-393-found-a-local-writers-group-finally/";
+        
+      },
+    },{id: "post-day-392-rounders-vs-rocky",
+      
+        title: "Day 392: Rounders vs Rocky",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/03/day-392-rounders-vs-rocky/";
+        
+      },
+    },{id: "post-day-391-book-of-choices-update-2",
+      
+        title: "Day 391: Book of Choices Update 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/09/02/day-391-book-of-choices-update-2/";
+        
+      },
+    },{id: "post-day-390-progress-update",
+      
+        title: "Day 390: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/30/day-390-progress-update/";
+        
+      },
+    },{id: "post-day-389-book-of-choices-update",
+      
+        title: "Day 389: Book of Choices Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/29/day-389-book-of-choices-update/";
+        
+      },
+    },{id: "post-day-388-follow-up-on-the-convention",
+      
+        title: "Day 388: Follow Up on the Convention",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/28/day-388-follow-up-on-the-convention/";
+        
+      },
+    },{id: "post-day-387-convention-tomorrow",
+      
+        title: "Day 387: Convention Tomorrow!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/27/day-387/";
+        
+      },
+    },{id: "post-day-386-previously-published-works",
+      
+        title: "Day 386: Previously Published Works",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/26/day-386-previously-published-works/";
+        
+      },
+    },{id: "post-day-385-club-meeting-soon",
+      
+        title: "Day 385: Club Meeting Soon",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/23/day-385-club-meeting-soon/";
+        
+      },
+    },{id: "post-day-384-the-forge-of-god",
+      
+        title: "Day 384: The Forge of God",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/22/day-384-the-forge-of-god/";
+        
+      },
+    },{id: "post-day-383-progress-update",
+      
+        title: "Day 383: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/21/day-383-progress-update/";
+        
+      },
+    },{id: "post-day-382-unseen-stories",
+      
+        title: "Day 382: Unseen Stories",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/20/day-382-unseen-stories/";
+        
+      },
+    },{id: "post-day-381-bad-news",
+      
+        title: "Day 381: Bad News",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/19/day-381-bad-news/";
+        
+      },
+    },{id: "post-day-380-focus",
+      
+        title: "Day 380: Focus!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/16/day-380-focus/";
+        
+      },
+    },{id: "post-day-379-progress-update",
+      
+        title: "Day 379: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/15/day-379-progress-update/";
+        
+      },
+    },{id: "post-day-378-paradigm-shift",
+      
+        title: "Day 378: Paradigm Shift",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/14/day-378-paradigm-shift/";
+        
+      },
+    },{id: "post-day-377-story-bloat",
+      
+        title: "Day 377: Story Bloat",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/13/day-377-story-bloat/";
+        
+      },
+    },{id: "post-day-376-rejected-stories",
+      
+        title: "Day 376: Rejected Stories",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/12/day-376-rejected-stories/";
+        
+      },
+    },{id: "post-day-375-elder-race",
+      
+        title: "Day 375: Elder Race",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/09/day-375-elder-race/";
+        
+      },
+    },{id: "post-day-374-progress-update",
+      
+        title: "Day 374: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/08/day-374-progress-update/";
+        
+      },
+    },{id: "post-day-373-the-forge-of-god-first-impressions",
+      
+        title: "Day 373: The Forge of God First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/07/day-373-the-forge-of-god-first-impressions/";
+        
+      },
+    },{id: "post-day-372-the-idiot-plot",
+      
+        title: "Day 372: The Idiot Plot",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/06/day-372-the-idiot-plot/";
+        
+      },
+    },{id: "post-day-371-elder-race-first-impressions",
+      
+        title: "Day 371: Elder Race First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/05/day-371-elder-race-first-impressions/";
+        
+      },
+    },{id: "post-day-370-a-short-respite",
+      
+        title: "Day 370: A Short Respite",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/02/day-370-a-short-respite/";
+        
+      },
+    },{id: "post-day-369-exposition-dumps",
+      
+        title: "Day 369: Exposition Dumps",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/08/01/day-369-exposition-dumps/";
+        
+      },
+    },{id: "post-day-368-progress-update",
+      
+        title: "Day 368: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/31/day-368-progress-update/";
+        
+      },
+    },{id: "post-day-367-thisness",
+      
+        title: "Day 367: Thisness",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/30/day-367-thisness/";
+        
+      },
+    },{id: "post-day-366-blood-music",
+      
+        title: "Day 366: Blood Music",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/29/day-366-blood-music/";
+        
+      },
+    },{id: "post-day-365-one-year",
+      
+        title: "Day 365: ONE YEAR",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/26/day-365-one-year/";
+        
+      },
+    },{id: "post-day-364-progress-update",
+      
+        title: "Day 364: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/25/day-364-progress-update/";
+        
+      },
+    },{id: "post-day-363-fallout",
+      
+        title: "Day 363: Fallout",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/24/day-363-fallout/";
+        
+      },
+    },{id: "post-day-362-stormy-weather",
+      
+        title: "Day 362: Stormy Weather",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/23/day-362-stormy-weather/";
+        
+      },
+    },{id: "post-day-361-stories-that-feel-like-home",
+      
+        title: "Day 361: Stories that Feel Like Home",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/22/day-365-stories-that-feel-like-home/";
+        
+      },
+    },{id: "post-day-360-progress-update",
+      
+        title: "Day 360: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/19/day-360-progress-update/";
+        
+      },
+    },{id: "post-day-359-a-rare-occurrence",
+      
+        title: "Day 359: A Rare Occurrence",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/18/day-359-a-rare-occurrence/";
+        
+      },
+    },{id: "post-day-358-the-easy-way-out",
+      
+        title: "Day 358: The Easy Way Out",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/17/day-358/";
+        
+      },
+    },{id: "post-day-357-at-a-loss-for-words",
+      
+        title: "Day 357: At a Loss for Words",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/16/day-357-at-a-loss-for-words/";
+        
+      },
+    },{id: "post-day-356-update-on-the-last-book-haul",
+      
+        title: "Day 356: Update on the Last Book Haul",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/15/day-356-update-on-the-last-bookhaul/";
+        
+      },
+    },{id: "post-day-355-progress-update",
+      
+        title: "Day 355: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/12/day-355-progress-update/";
+        
+      },
+    },{id: "post-day-354-hannibal",
+      
+        title: "Day 354: Hannibal",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/11/day-354-hannibal/";
+        
+      },
+    },{id: "post-day-353-like-riding-a-bike",
+      
+        title: "Day 353: Like Riding a Bike",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/10/day-353-like-riding-a-bike/";
+        
+      },
+    },{id: "post-day-352-the-reach",
+      
+        title: "Day 352: The Reach",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/09/day-352-the-reach/";
+        
+      },
+    },{id: "post-day-351-boulevard-magazine",
+      
+        title: "Day 351: Boulevard Magazine",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/08/day-351-boulevard-magazine/";
+        
+      },
+    },{id: "post-day-350-piracy",
+      
+        title: "Day 350: Piracy",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/05/day-350-piracy/";
+        
+      },
+    },{id: "post-day-349-happy-fourth-of-july",
+      
+        title: "Day 349: Happy Fourth of July!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/04/day-349-happy-fourth-of-july/";
+        
+      },
+    },{id: "post-day-348-progress-update",
+      
+        title: "Day 348: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/03/day-348-progress-update/";
+        
+      },
+    },{id: "post-day-347-art-based-stories",
+      
+        title: "Day 347: Art-Based Stories",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/02/day-347-art-based-stories/";
+        
+      },
+    },{id: "post-day-346-the-results-are-in",
+      
+        title: "Day 346: The Results Are In ...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/07/01/day-346-the-results-are-in/";
+        
+      },
+    },{id: "post-day-345-book-of-choices-competition-results-soon",
+      
+        title: "Day 345: Book of Choices Competition Results SOON",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/28/day-345-book-of-choices-competition-results-soon/";
+        
+      },
+    },{id: "post-day-344-convenience-fee",
+      
+        title: "Day 344: Convenience Fee",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/27/day-344-convenience-fee/";
+        
+      },
+    },{id: "post-day-343-book-haul",
+      
+        title: "Day 343: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/26/day-343-book-haul/";
+        
+      },
+    },{id: "post-day-342-economies-of-scale",
+      
+        title: "Day 342: Economies of Scale",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/25/day-342-economies-of-scale/";
+        
+      },
+    },{id: "post-day-341-read-the-wrong-book",
+      
+        title: "Day 341: Read the Wrong Book!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/24/day-341-read-the-wrong-book/";
+        
+      },
+    },{id: "post-day-340-happy-friday",
+      
+        title: "Day 340: Happy Friday",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/21/day-340-happy-friday/";
+        
+      },
+    },{id: "post-day-339-scavengers-reign",
+      
+        title: "Day 339: Scavengers Reign",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/20/day-339-scavengers-reign/";
+        
+      },
+    },{id: "post-day-338-genre-burnout",
+      
+        title: "Day 338: Genre Burnout",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/19/day-338-genre-burnout/";
+        
+      },
+    },{id: "post-day-337-progress-update",
+      
+        title: "Day 337: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/18/day-337-progress-update/";
+        
+      },
+    },{id: "post-day-336-beartown",
+      
+        title: "Day 336: Beartown",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/17/day-336-beartown/";
+        
+      },
+    },{id: "post-day-335-counting-words",
+      
+        title: "Day 335: Counting Words",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/14/day-335-counting-words/";
+        
+      },
+    },{id: "post-day-334-fredrik-backman-39-s-lookahead-technique",
+      
+        title: "Day 334: Fredrik Backman&#39;s Lookahead Technique",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/13/day-334-fredrik-backmans-lookahead-technique/";
+        
+      },
+    },{id: "post-day-333-pacing-woes",
+      
+        title: "Day 333: Pacing Woes",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/12/day-333-pacing-woes/";
+        
+      },
+    },{id: "post-day-332-hidden-in-plain-sight",
+      
+        title: "Day 332: Hidden in Plain Sight",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/11/day-332-hidden-in-plain-sight/";
+        
+      },
+    },{id: "post-day-331-cheater-cheater-pumpkin-eater",
+      
+        title: "Day 331: Cheater-Cheater Pumpkin Eater",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/10/day-331-cheater-cheater-pumpkin-eater/";
+        
+      },
+    },{id: "post-day-330-beartown-first-impressions",
+      
+        title: "Day 330: Beartown First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/07/day-330-beartown-first-impressions/";
+        
+      },
+    },{id: "post-day-329-one-step-forward",
+      
+        title: "Day 329: One Step Forward ...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/06/day-329-one-step-forward/";
+        
+      },
+    },{id: "post-day-328-looking-to-nature",
+      
+        title: "Day 328: Looking to Nature",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/05/day-328-looking-to-nature/";
+        
+      },
+    },{id: "post-day-327-time-flies",
+      
+        title: "Day 327: Time Flies",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/04/day-327-time-flies/";
+        
+      },
+    },{id: "post-day-326-progress-update",
+      
+        title: "Day 326: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/06/03/day-326-progress-update/";
+        
+      },
+    },{id: "post-day-325-cheetahs",
+      
+        title: "Day 325: Cheetahs",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/31/day-325-cheetahs/";
+        
+      },
+    },{id: "post-day-324-late-evening-post",
+      
+        title: "Day 324: Late Evening Post",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/30/day-324-late-evening-post/";
+        
+      },
+    },{id: "post-day-323-frame-stories",
+      
+        title: "Day 323: Frame Stories",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/29/day-323-frame-stories/";
+        
+      },
+    },{id: "post-day-322-progress-update",
+      
+        title: "Day 322: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/28/day-322-progress-update/";
+        
+      },
+    },{id: "post-day-321-don-juan-and-the-evolution-of-memes",
+      
+        title: "Day 321: Don Juan and the Evolution of Memes",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/27/day-321-don-juan-and-the-evolution-of-memes/";
+        
+      },
+    },{id: "post-day-320-negative-space",
+      
+        title: "Day 320: Negative Space",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/24/day-320-negative-space/";
+        
+      },
+    },{id: "post-day-319-revelation-space",
+      
+        title: "Day 319: Revelation Space",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/23/day-319-revelation-space/";
+        
+      },
+    },{id: "post-day-318-little-lost-robot",
+      
+        title: "Day 318: Little Lost Robot",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/22/day-318-little-lost-robot/";
+        
+      },
+    },{id: "post-day-317-progress-update",
+      
+        title: "Day 317: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/21/day-317-progress-update/";
+        
+      },
+    },{id: "post-day-316-run-forest",
+      
+        title: "Day 316: Run Forest",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/20/day-316-run-forest/";
+        
+      },
+    },{id: "post-day-315-scum-and-villainy",
+      
+        title: "Day 315: Scum and Villainy",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/17/day-315-scum-and-villainy/";
+        
+      },
+    },{id: "post-day-314-valhalla-rising",
+      
+        title: "Day 314: Valhalla Rising",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/16/day-314-valhalla-rising/";
+        
+      },
+    },{id: "post-day-313-progress-update",
+      
+        title: "Day 313: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/15/day-313-progress-update/";
+        
+      },
+    },{id: "post-day-312-book-haul",
+      
+        title: "Day 312: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/05/14/day-312-book-haul/";
         
       },
     },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -101,224 +1883,3458 @@ ninja.data = [{
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
-    },{id: "post-a-post-with-tabs",
+    },{id: "post-day-311-making-shapely-fiction",
       
-        title: "a post with tabs",
+        title: "Day 311: Making Shapely Fiction",
       
-      description: "this is what included tabs in a post could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/tabs/";
+          window.location.href = "/2024/05/13/day-311-making-shapely-fiction/";
         
       },
-    },{id: "post-a-post-with-typograms",
+    },{id: "post-day-310-neural-network-actually-works-somehow",
       
-        title: "a post with typograms",
+        title: "Day 310: Neural Network Actually Works, Somehow",
       
-      description: "this is what included typograms code could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/typograms/";
+          window.location.href = "/2024/05/10/day-310-neural-network-actually-works-somehow/";
         
       },
-    },{id: "post-a-post-that-can-be-cited",
+    },{id: "post-day-309-the-huge-waste-of-potential-in-39-pantheon-39",
       
-        title: "a post that can be cited",
+        title: "Day 309: The Huge Waste of Potential in &#39;Pantheon&#39;",
       
-      description: "this is what a post that can be cited looks like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/post-citation/";
+          window.location.href = "/2024/05/09/day-309-the-huge-waste-of-potential-in-pantheon/";
         
       },
-    },{id: "post-a-post-with-pseudo-code",
+    },{id: "post-day-308-genre-bending",
       
-        title: "a post with pseudo code",
+        title: "Day 308: Genre Bending",
       
-      description: "this is what included pseudo code could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/pseudocode/";
+          window.location.href = "/2024/05/08/day-308-genre-bending/";
         
       },
-    },{id: "post-a-post-with-code-diff",
+    },{id: "post-day-307-tiny-muscle-giant-annoyance",
       
-        title: "a post with code diff",
+        title: "Day 307: Tiny Muscle, Giant Annoyance",
       
-      description: "this is how you can display code diffs",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/code-diff/";
+          window.location.href = "/2024/05/07/day-307-tiny-muscle-giant-annoyance/";
         
       },
-    },{id: "post-a-post-with-advanced-image-components",
+    },{id: "post-day-306-progress-update",
       
-        title: "a post with advanced image components",
+        title: "Day 306: Progress Update",
       
-      description: "this is what advanced image components could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/advanced-images/";
+          window.location.href = "/2024/05/06/day-306-progress-update/";
         
       },
-    },{id: "post-a-post-with-vega-lite",
+    },{id: "post-day-305-buying-used-books",
       
-        title: "a post with vega lite",
+        title: "Day 305: Buying Used Books",
       
-      description: "this is what included vega lite code could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/vega-lite/";
+          window.location.href = "/2024/05/04/day-305-buying-used-books/";
         
       },
-    },{id: "post-a-post-with-geojson",
+    },{id: "post-day-304-writer-39-s-block",
       
-        title: "a post with geojson",
+        title: "Day 304: Writer&#39;s Block",
       
-      description: "this is what included geojson code could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/geojson-map/";
+          window.location.href = "/2024/05/03/day-304-writers-block/";
         
       },
-    },{id: "post-a-post-with-echarts",
+    },{id: "post-day-303-finally-querying-for-my-book",
       
-        title: "a post with echarts",
+        title: "Day 303: Finally Querying for my Book",
       
-      description: "this is what included echarts code could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/echarts/";
+          window.location.href = "/2024/05/02/day-303-finally-querying-for-my-book/";
         
       },
-    },{id: "post-a-post-with-chart-js",
+    },{id: "post-day-302-looking-for-inspiration",
       
-        title: "a post with chart.js",
+        title: "Day 302: Looking for Inspiration",
       
-      description: "this is what included chart.js code could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/chartjs/";
+          window.location.href = "/2024/05/01/day-302-looking-for-inspiration/";
         
       },
-    },{id: "post-a-post-with-tikzjax",
+    },{id: "post-day-302-what-39-s-going-on",
       
-        title: "a post with TikZJax",
+        title: "Day 302: What&#39;s Going On",
       
-      description: "this is what included TikZ code could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/tikzjax/";
+          window.location.href = "/2024/04/30/day-302-whats-going-on/";
         
       },
-    },{id: "post-a-post-with-bibliography",
+    },{id: "post-day-301-the-forest-for-the-trees",
       
-        title: "a post with bibliography",
+        title: "Day 301: The Forest for the Trees",
       
-      description: "an example of a blog post with bibliography",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/post-bibliography/";
+          window.location.href = "/2024/04/29/day-301-the-forest-for-the-trees/";
         
       },
-    },{id: "post-a-post-with-jupyter-notebook",
+    },{id: "post-day-300-how-machines-learn-pt-4",
       
-        title: "a post with jupyter notebook",
+        title: "Day 300: How Machines Learn pt. 4",
       
-      description: "an example of a blog post with jupyter notebook",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/jupyter-notebook/";
+          window.location.href = "/2024/04/26/day-300-how-machines-learn-pt-4/";
         
       },
-    },{id: "post-a-post-with-custom-blockquotes",
+    },{id: "post-day-299-how-machines-learn-pt-3",
       
-        title: "a post with custom blockquotes",
+        title: "Day 299: How Machines Learn pt. 3",
       
-      description: "an example of a blog post with custom blockquotes",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/custom-blockquotes/";
+          window.location.href = "/2024/04/25/day-299-how-machines-learn-pt-3/";
         
       },
-    },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
+    },{id: "post-day-298-how-machines-learn-pt-2",
       
-        title: "a post with table of contents on a sidebar",
+        title: "Day 298: How Machines Learn Pt. 2",
       
-      description: "an example of a blog post with table of contents on a sidebar",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/sidebar-table-of-contents/";
+          window.location.href = "/2024/04/24/day-298-how-machines-learn-pt-2/";
         
       },
-    },{id: "post-a-post-with-audios",
+    },{id: "post-day-297-how-machines-learn",
       
-        title: "a post with audios",
+        title: "Day 297: How Machines Learn",
       
-      description: "this is what included audios could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/audios/";
+          window.location.href = "/2024/04/23/day-297-how-machines-learn/";
         
       },
-    },{id: "post-a-post-with-videos",
+    },{id: "post-day-296-what-makes-a-good-techno-thriller",
       
-        title: "a post with videos",
+        title: "Day 296: What Makes a Good Techno-Thriller?",
       
-      description: "this is what included videos could look like",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/videos/";
+          window.location.href = "/2024/04/22/day-296-what-makes-a-good-techno-thriller/";
         
       },
-    },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
+    },{id: "post-day-295-progress-update",
       
-        title: "displaying beautiful tables with Bootstrap Tables",
+        title: "Day 295: Progress Update",
       
-      description: "an example of how to use Bootstrap Tables",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/tables/";
+          window.location.href = "/2024/04/19/day-295-progress-update/";
         
       },
-    },{id: "post-a-post-with-table-of-contents",
+    },{id: "post-day-294-stories-in-computer-history",
       
-        title: "a post with table of contents",
+        title: "Day 294: Stories in Computer History",
       
-      description: "an example of a blog post with table of contents",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/table-of-contents/";
+          window.location.href = "/2024/04/18/day-294-stories-in-computer-history/";
         
       },
-    },{id: "post-a-post-with-giscus-comments",
+    },{id: "post-day-293-the-shaft",
       
-        title: "a post with giscus comments",
+        title: "Day 293: The Shaft",
       
-      description: "an example of a blog post with giscus comments",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2022/giscus-comments/";
+          window.location.href = "/2024/04/17/day-293-the-shaft/";
+        
+      },
+    },{id: "post-day-292-found-an-old-story-i-wrote",
+      
+        title: "Day 292: Found an Old Story I Wrote",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/16/day-292-found-an-old-story-i-wrote/";
+        
+      },
+    },{id: "post-day-291-archaic-language",
+      
+        title: "Day 291: Archaic Language",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/15/day-291-archaic-language/";
+        
+      },
+    },{id: "post-day-290-on-writing",
+      
+        title: "Day 290: On Writing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/12/day-290-on-writing/";
+        
+      },
+    },{id: "post-day-289-from-a-sitting-position",
+      
+        title: "Day 289: From a Sitting Position",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/11/day-289-from-a-sitting-position/";
+        
+      },
+    },{id: "post-day-288-finding-passion-in-projects",
+      
+        title: "Day 288: Finding Passion in Projects",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/10/day-288-finding-passion-in-projects/";
+        
+      },
+    },{id: "post-day-287-progress-update",
+      
+        title: "Day 287: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/09/day-287-progress-update/";
+        
+      },
+    },{id: "post-day-286-when-to-watch-the-eclipse",
+      
+        title: "Day 286: When to Watch the Eclipse",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/08/day-286-when-to-watch-the-eclipse/";
+        
+      },
+    },{id: "post-day-285-writing-smart-and-stupid-pt-2",
+      
+        title: "Day 285: Writing Smart and Stupid Pt. 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/05/day-285-writing-smart-and-stupid-pt-2/";
+        
+      },
+    },{id: "post-day-284-writing-smart-and-stupid",
+      
+        title: "Day 284: Writing Smart and Stupid",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/04/day-284-writing-smart-and-stupid/";
+        
+      },
+    },{id: "post-day-283-site-upgrades",
+      
+        title: "Day 283: Site Upgrades",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/03/day-283-site-upgrades/";
+        
+      },
+    },{id: "post-day-282-book-haul",
+      
+        title: "Day 282: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/02/day-282-book-haul/";
+        
+      },
+    },{id: "post-day-281-progress-update",
+      
+        title: "Day 281: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/04/01/day-281-progress-update/";
+        
+      },
+    },{id: "post-day-280-writing-exercise-5-mary-shelley",
+      
+        title: "Day 280: Writing Exercise 5, Mary Shelley",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/29/day-280-writing-exercise-5-mary-shelley/";
+        
+      },
+    },{id: "post-day-279-writing-exercise-4-michael-crichton",
+      
+        title: "Day 279: Writing Exercise 4, Michael Crichton",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/28/day-279-writing-exercise-4-michael-crichton/";
+        
+      },
+    },{id: "post-day-278-writing-exercise-3-mark-twain",
+      
+        title: "Day 278: Writing Exercise 3, Mark Twain",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/27/day-278-writing-exercise-mark-twain/";
+        
+      },
+    },{id: "post-day-277-writing-exercise-2-ernest-hemingway",
+      
+        title: "Day 277: Writing Exercise 2, Ernest Hemingway",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/26/day-277-writing-exercise-2-ernest-hemingway/";
+        
+      },
+    },{id: "post-day-276-writing-exercise-1-toni-morrison",
+      
+        title: "Day 276: Writing Exercise 1, Toni Morrison",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/25/day-276-writing-exercise-1-toni-morrison/";
+        
+      },
+    },{id: "post-day-275-a-fun-challenge-for-next-week",
+      
+        title: "Day 275: A Fun Challenge for Next Week",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/22/day-275-a-fun-challenge-for-next-week/";
+        
+      },
+    },{id: "post-day-274-suspense",
+      
+        title: "Day 274: Suspense",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/21/day-274-suspense/";
+        
+      },
+    },{id: "post-day-273-the-galactic-stock-exchange",
+      
+        title: "Day 273: The Galactic Stock Exchange",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/20/day-273-the-galactic-stock-exchange/";
+        
+      },
+    },{id: "post-day-272-progress-update",
+      
+        title: "Day 272: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/19/day-272-progress-update/";
+        
+      },
+    },{id: "post-day-271-small-great-things-first-impressions",
+      
+        title: "Day 271: Small Great Things First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/18/day-271-small-great-things-first-impressions/";
+        
+      },
+    },{id: "post-day-270-attending-a-wedding-tomorrow",
+      
+        title: "Day 270: Attending a Wedding Tomorrow!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/15/day-270-attending-a-wedding-tomorrow/";
+        
+      },
+    },{id: "post-day-269-dune-part-two",
+      
+        title: "Day 269: Dune: Part Two",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/14/day-269-dune-part-two/";
+        
+      },
+    },{id: "post-day-268-a-silly-idea",
+      
+        title: "Day 268: A Silly Idea",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/13/day-268-a-silly-idea/";
+        
+      },
+    },{id: "post-day-267-welcome-to-the-chum-bucket",
+      
+        title: "Day 267: Welcome to the Chum Bucket",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/12/day-267-welcome-to-the-chum-bucket/";
+        
+      },
+    },{id: "post-day-266-more-on-editing",
+      
+        title: "Day 266: More on Editing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/11/day-266-more-on-editing/";
+        
+      },
+    },{id: "post-day-265-one-year",
+      
+        title: "Day 265: One Year",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/08/day-265-one-year/";
+        
+      },
+    },{id: "post-day-264-the-covenant-of-water",
+      
+        title: "Day 264: The Covenant of Water",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/07/day-264-the-covenant-of-water/";
+        
+      },
+    },{id: "post-day-263-the-setting-of-39-the-covenant-of-water-39",
+      
+        title: "Day 263: The Setting of &#39;The Covenant of Water&#39;",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/06/day-263-the-setting-of-the-covenant-of-water/";
+        
+      },
+    },{id: "post-day-262-rodney-dangerfield",
+      
+        title: "Day 262: Rodney Dangerfield",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/05/day-262-rodney-dangerfield/";
+        
+      },
+    },{id: "post-day-261-progress-update",
+      
+        title: "Day 261: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/04/day-261-progress-update/";
+        
+      },
+    },{id: "post-day-260-finding-abstract-connections",
+      
+        title: "Day 260: Finding Abstract Connections",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/03/01/day-260-finding-abstract-connections/";
+        
+      },
+    },{id: "post-day-259-happy-leap-day",
+      
+        title: "Day 259: Happy Leap Day",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/29/day-259-happy-leap-day/";
+        
+      },
+    },{id: "post-day-258-crop-circles-and-the-nature-of-mystery",
+      
+        title: "Day 258: Crop Circles and the Nature of Mystery",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/28/day-258-crop-circles-and-the-nature-of-mystery/";
+        
+      },
+    },{id: "post-day-257-progress-update",
+      
+        title: "Day 257: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/27/day-257-progress-update/";
+        
+      },
+    },{id: "post-day-256-splitting-chapters",
+      
+        title: "Day 256: Splitting Chapters",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/26/day-256-splitting-chapters/";
+        
+      },
+    },{id: "post-day-255-review-sites",
+      
+        title: "Day 255: Review Sites",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/23/day-255-review-sites/";
+        
+      },
+    },{id: "post-day-254-the-brilliant-writing-of-abraham-verghese",
+      
+        title: "Day 254: The Brilliant Writing of Abraham Verghese",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/22/day-254-the-brilliant-writing-of-abraham-verghese/";
+        
+      },
+    },{id: "post-day-253-fake-fossils",
+      
+        title: "Day 253: Fake Fossils",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/21/day-253-fake-fossils/";
+        
+      },
+    },{id: "post-day-252-progress-update",
+      
+        title: "Day 252: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/20/day-252-progress-update/";
+        
+      },
+    },{id: "post-day-251-the-covenant-of-water-first-impressions",
+      
+        title: "Day 251: The Covenant of Water First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/19/day-251-the-covenant-of-water-first-impressions/";
+        
+      },
+    },{id: "post-day-250-happy-friday",
+      
+        title: "Day 250: Happy Friday",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/16/day-250-happy-friday/";
+        
+      },
+    },{id: "post-day-249-the-fourth-wing",
+      
+        title: "Day 249: The Fourth Wing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/15/day-249-the-fourth-wing/";
+        
+      },
+    },{id: "post-day-248-editing-pt-4",
+      
+        title: "Day 248: Editing Pt. 4",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/14/day-248-editing-pt-4/";
+        
+      },
+    },{id: "post-day-247-editing-pt-3",
+      
+        title: "Day 247: Editing Pt. 3",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/13/day-247-editing-pt-3/";
+        
+      },
+    },{id: "post-day-246-editing-pt-2",
+      
+        title: "Day 246: Editing Pt. 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/12/day-246-editing-pt-2/";
+        
+      },
+    },{id: "post-day-245-editing-pt-1",
+      
+        title: "Day 245: Editing Pt. 1",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/09/day-255-editing-pt-1/";
+        
+      },
+    },{id: "post-day-244-working-out-my-editing-process",
+      
+        title: "Day 244: Working Out My Editing Process",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/08/day-243-working-out-my-editing-process/";
+        
+      },
+    },{id: "post-day-243-the-fourth-wing-first-impressions",
+      
+        title: "Day 243: The Fourth Wing First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/07/day-242-the-fourth-wing-first-impressions/";
+        
+      },
+    },{id: "post-day-242-computer-trouble",
+      
+        title: "Day 242: Computer Trouble",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/06/day-242-computer-trouble/";
+        
+      },
+    },{id: "post-day-241-book-haul",
+      
+        title: "Day 241: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/05/day-241-book-haul/";
+        
+      },
+    },{id: "post-day-240-call-for-themes-on-the-next-book-haul",
+      
+        title: "Day 240: Call for Themes on the Next Book Haul",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/02/day-240-call-for-themes-on-the-next-book-haul/";
+        
+      },
+    },{id: "post-day-239-progress-update",
+      
+        title: "Day 239: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/02/01/day-239-progress-update/";
+        
+      },
+    },{id: "post-day-238-attitude-in-fiction",
+      
+        title: "Day 238: Attitude in Fiction",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/31/day-238-attitude-in-fiction/";
+        
+      },
+    },{id: "post-day-237-not-feeling-well",
+      
+        title: "Day 237: Not Feeling Well",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/30/day-237-not-feeling-well/";
+        
+      },
+    },{id: "post-day-236-ancient-inspiration",
+      
+        title: "Day 236: Ancient Inspiration",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/29/day-236-ancient-inspiration/";
+        
+      },
+    },{id: "post-day-235-the-book-of-choices-pt-2",
+      
+        title: "Day 235: The Book of Choices Pt. 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/26/day-235-the-book-of-choices-pt-2/";
+        
+      },
+    },{id: "post-day-234-the-book-of-choices",
+      
+        title: "Day 234: The Book of Choices",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/25/day-234-the-book-of-choices/";
+        
+      },
+    },{id: "post-day-233-the-sparrow",
+      
+        title: "Day 233: The Sparrow",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/24/day-233-the-sparrow/";
+        
+      },
+    },{id: "post-day-232-quick-update",
+      
+        title: "Day 232: Quick Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/23/day-232-quick-update/";
+        
+      },
+    },{id: "post-day-231-long-term-intentionality",
+      
+        title: "Day 231: Long Term Intentionality",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/22/day-231-long-term-intentionality/";
+        
+      },
+    },{id: "post-day-230-integrating-small-pieces-into-the-big-picture",
+      
+        title: "Day 230: Integrating Small Pieces Into The Big Picture",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/19/day-230-integrating-small-pieces-into-the-big-picture/";
+        
+      },
+    },{id: "post-day-229-inspiring-technology",
+      
+        title: "Day 229: Inspiring Technology",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/18/day-229-inspiring-technology/";
+        
+      },
+    },{id: "post-day-228-day-off",
+      
+        title: "Day 228: Day Off",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/17/day-228-day-off/";
+        
+      },
+    },{id: "post-day-227-subtle-lines",
+      
+        title: "Day 227: Subtle Lines",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/16/day-227-subtle-lines/";
+        
+      },
+    },{id: "post-day-226-publishing",
+      
+        title: "Day 226: Publishing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/15/day-226-publishing/";
+        
+      },
+    },{id: "post-day-225-update-on-the-past-through-tomorrow",
+      
+        title: "Day 225: Update on The Past Through Tomorrow",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/12/day-225-update-on-the-past-through-tomorrow/";
+        
+      },
+    },{id: "post-day-224-the-novel-who-needs-it",
+      
+        title: "Day 224: The Novel, Who Needs It?",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/11/day-224-the-novel-who-needs-it/";
+        
+      },
+    },{id: "post-day-223-progress-update",
+      
+        title: "Day 223: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/10/day-223-progress-update/";
+        
+      },
+    },{id: "post-day-222-toad",
+      
+        title: "Day 222: Toad",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/09/day-222-toad/";
+        
+      },
+    },{id: "post-day-221-power-nap",
+      
+        title: "Day 221: Power Nap",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/08/day-221-power-nap/";
+        
+      },
+    },{id: "post-day-220-boring-spacecraft",
+      
+        title: "Day 220: Boring Spacecraft",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/05/day-220-boring-spacecraft/";
+        
+      },
+    },{id: "post-day-219-everything-everywhere-all-at-once",
+      
+        title: "Day 219: Everything Everywhere All at Once",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/04/day-219-everything-everywhere-all-at-once/";
+        
+      },
+    },{id: "post-day-218-crossroads-cantina",
+      
+        title: "Day 218: Crossroads Cantina",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/03/day-218-crossroads-cantina/";
+        
+      },
+    },{id: "post-day-217-book-haul",
+      
+        title: "Day 217: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/02/day-217-book-haul/";
+        
+      },
+    },{id: "post-day-216-happy-new-year",
+      
+        title: "Day 216: Happy New Year!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2024/01/01/day-216-happy-new-year/";
+        
+      },
+    },{id: "post-day-215-the-past-through-tomorrow-first-impressions",
+      
+        title: "Day 215: The Past Through Tomorrow First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/29/day-215-the-past-through-tomorrow-first-impressions/";
+        
+      },
+    },{id: "post-day-214-stories-without-a-place",
+      
+        title: "Day 214: Stories Without a Place",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/28/day-214-stories-without-a-place/";
+        
+      },
+    },{id: "post-day-213-2023-progress-update",
+      
+        title: "Day 213: 2023 Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/27/day-213-2023-progress-update/";
+        
+      },
+    },{id: "post-day-212-do-androids-dream-of-electric-sheep",
+      
+        title: "Day 212: Do Androids Dream of Electric Sheep?",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/26/day-212-do-androids-dream-of-electric-sheep/";
+        
+      },
+    },{id: "post-day-211-merry-christmas",
+      
+        title: "Day 211: Merry Christmas!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/25/day-211-merry-christmas/";
+        
+      },
+    },{id: "post-day-210-do-androids-dream-of-electric-sheep-first-impressions",
+      
+        title: "Day 210: Do Androids Dream of Electric Sheep First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/22/day-210-do-androids-dream-of-electric-sheep-first-impressions/";
+        
+      },
+    },{id: "post-day-209-road-trip",
+      
+        title: "Day 209: Road Trip",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/21/day-209-road-trip/";
+        
+      },
+    },{id: "post-day-208-tiny-book-haul",
+      
+        title: "Day 208: Tiny Book Haul",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/20/day-208-tiny-book-haul/";
+        
+      },
+    },{id: "post-day-207-thoughts-on-multiple-perspectives",
+      
+        title: "Day 207: Thoughts on Multiple Perspectives",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/19/day-207-thoughts-on-multiple-perspectives/";
+        
+      },
+    },{id: "post-day-206-tinker-tailor-soldier-spy",
+      
+        title: "Day 206: Tinker Tailor Soldier Spy",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/18/day-206-tinker-tailor-soldier-spy/";
+        
+      },
+    },{id: "post-day-205-too-many-words",
+      
+        title: "Day 205: Too Many Words!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/15/day-205-too-many-words/";
+        
+      },
+    },{id: "post-day-204-godzilla-minus-one",
+      
+        title: "Day 204: Godzilla Minus One",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/14/day-204-godzilla-minus-one/";
+        
+      },
+    },{id: "post-day-203-my-next-project",
+      
+        title: "Day 203: My Next Project",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/13/day-203-my-next-project/";
+        
+      },
+    },{id: "post-day-202-something-neat-i-found",
+      
+        title: "Day 202: Something Neat I Found",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/12/day-202-something-neat-i-found/";
+        
+      },
+    },{id: "post-day-201-big-progress-update",
+      
+        title: "Day 201: Big Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/11/day-201-big-progress-update/";
+        
+      },
+    },{id: "post-day-200-200th-post",
+      
+        title: "Day 200: 200th Post!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/08/day-200-200th-post/";
+        
+      },
+    },{id: "post-day-199-unusual-words",
+      
+        title: "Day 199: Unusual Words",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/07/day-199-unusual-words/";
+        
+      },
+    },{id: "post-day-198-terrible-writing-advice",
+      
+        title: "Day 198: Terrible Writing Advice",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/06/day-198-terrible-writing-advice/";
+        
+      },
+    },{id: "post-day-197-writing-about-simple-things",
+      
+        title: "Day 197: Writing About Simple Things",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/05/day-197-writing-about-simple-things/";
+        
+      },
+    },{id: "post-day-196-quantum-physics",
+      
+        title: "Day 196: Quantum Physics",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/04/day-191-quantum-physics/";
+        
+      },
+    },{id: "post-day-195-alternate-history-cont",
+      
+        title: "Day 195: Alternate History Cont.",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/12/01/day-195-alternate-history-cont/";
+        
+      },
+    },{id: "post-day-194-alternate-history",
+      
+        title: "Day 194: Alternate History",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/30/day-194-alternate-history/";
+        
+      },
+    },{id: "post-day-193-the-hardest-part-of-writing",
+      
+        title: "Day 193: The Hardest Part of Writing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/29/day-193-the-hardest-part-of-writing/";
+        
+      },
+    },{id: "post-day-192-tinker-tailor-soldier-spy-first-impressions",
+      
+        title: "Day 192: Tinker Tailor Soldier Spy First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/28/day-192-tinker-tailor-soldier-spy-first-impressions/";
+        
+      },
+    },{id: "post-day-191-progress-update",
+      
+        title: "Day 191: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/27/day-191-progress-update/";
+        
+      },
+    },{id: "post-day-190-napoleon",
+      
+        title: "Day 190: Napoleon",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/24/day-190-napoleon/";
+        
+      },
+    },{id: "post-day-189-happy-thanksgiving-everyone",
+      
+        title: "Day 189: Happy Thanksgiving Everyone!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/23/day-189-happy-thanksgiving-everyone/";
+        
+      },
+    },{id: "post-day-188-the-creative-act-a-way-of-being",
+      
+        title: "Day 188: The Creative Act, A Way of Being",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/22/day-188-the-creative-act-a-way-of-being/";
+        
+      },
+    },{id: "post-day-187-describing-sensation",
+      
+        title: "Day 187: Describing Sensation",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/21/day-187-describing-sensation/";
+        
+      },
+    },{id: "post-day-186-from-russia-with-love",
+      
+        title: "Day 186: From Russia With Love",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/20/day-186-from-russia-with-love/";
+        
+      },
+    },{id: "post-day-185-ugh",
+      
+        title: "Day 185: Ugh",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/17/day-185-ugh/";
+        
+      },
+    },{id: "post-day-184-magic",
+      
+        title: "Day 184: Magic",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/16/day-184-magic/";
+        
+      },
+    },{id: "post-day-183-story-archetypes",
+      
+        title: "Day 183: Story Archetypes",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/15/day-183-story-archetypes/";
+        
+      },
+    },{id: "post-day-182-characters",
+      
+        title: "Day 182: Characters",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/14/day-182-characters/";
+        
+      },
+    },{id: "post-day-181-plans-for-this-week",
+      
+        title: "Day 181: Plans For this Week",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/13/day-181-plans-for-this-week/";
+        
+      },
+    },{id: "post-day-180-six-word-wonder",
+      
+        title: "Day 180: Six Word Wonder",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/10/day-180-six-word-wonder/";
+        
+      },
+    },{id: "post-day-179-from-russia-with-love-first-impressions",
+      
+        title: "Day 179: From Russia With Love First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/09/day-179-from-russia-with-love-first-impressions/";
+        
+      },
+    },{id: "post-day-178-outer-wilds",
+      
+        title: "Day 178: Outer Wilds",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/08/day-178-outer-wilds/";
+        
+      },
+    },{id: "post-day-177-progress-update",
+      
+        title: "Day 177: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/07/day-177-progress-update/";
+        
+      },
+    },{id: "post-day-176-my-second-dnf",
+      
+        title: "Day 176: My Second DNF",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/06/day-176-my-first-dnf/";
+        
+      },
+    },{id: "post-day-175-birthday-post",
+      
+        title: "Day 175: Birthday Post",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/03/day-175-birthday-post/";
+        
+      },
+    },{id: "post-day-174-seed-ship",
+      
+        title: "Day 174: Seed Ship",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/02/day-174-seed-ship/";
+        
+      },
+    },{id: "post-day-173-nonproductive-days",
+      
+        title: "Day 173: Nonproductive Days",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/11/01/day-174-nonproductive-days/";
+        
+      },
+    },{id: "post-day-172-happy-halloween",
+      
+        title: "Day 172: Happy Halloween!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/31/day-172-happy-halloween/";
+        
+      },
+    },{id: "post-day-171-reading-list",
+      
+        title: "Day 171: Reading List",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/30/day-171-reading-list/";
+        
+      },
+    },{id: "post-day-170-progress-update",
+      
+        title: "Day 170: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/27/day-170-progress-update/";
+        
+      },
+    },{id: "post-day-169-spacecraft",
+      
+        title: "Day 169: Spacecraft",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/26/day-169-spacecraft/";
+        
+      },
+    },{id: "post-day-168-the-hunt-for-red-october-first-impressions",
+      
+        title: "Day 168: The Hunt for Red October First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/25/day-168-the-hunt-for-red-october-first-impressions/";
+        
+      },
+    },{id: "post-day-167-internet-troubles",
+      
+        title: "Day 167: Internet Troubles",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/24/day-167-internet-troubles/";
+        
+      },
+    },{id: "post-day-166-the-spy-who-came-in-from-the-cold",
+      
+        title: "Day 166: The Spy Who Came in From the Cold",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/23/day-166-the-spy-who-came-in-from-the-cold/";
+        
+      },
+    },{id: "post-day-165-peripherals",
+      
+        title: "Day 165: Peripherals",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/20/day-165-peripherals/";
+        
+      },
+    },{id: "post-day-164-i-was-very-much-lied-to-about-maps",
+      
+        title: "Day 164: I Was Very Much Lied to About Maps",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/19/day-164-i-was-very-much-lied-to-about-maps/";
+        
+      },
+    },{id: "post-day-163-maps",
+      
+        title: "Day 163: Maps",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/18/day-163-maps/";
+        
+      },
+    },{id: "post-day-162-jazz",
+      
+        title: "Day 162: Jazz",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/17/day-162-jazz/";
+        
+      },
+    },{id: "post-day-161-words-that-don-39-t-get-any-respect",
+      
+        title: "Day 161: Words That Don&#39;t Get Any Respect",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/16/day-161-words-that-dont-get-any-respect/";
+        
+      },
+    },{id: "post-day-160-new-stuff",
+      
+        title: "Day 160: New Stuff",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/13/day-160-new-stuff/";
+        
+      },
+    },{id: "post-day-159-progress-update",
+      
+        title: "Day 159: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/12/day-159-progress-update/";
+        
+      },
+    },{id: "post-day-158-quiet",
+      
+        title: "Day 158: Quiet",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/11/day-158-quiet/";
+        
+      },
+    },{id: "post-day-157-book-haul",
+      
+        title: "Day 157: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/10/day-157-book-haul/";
+        
+      },
+    },{id: "post-day-156-great-news-everyone",
+      
+        title: "Day 156: Great News Everyone!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/09/day-156-great-news-everyone/";
+        
+      },
+    },{id: "post-day-155-progress-update",
+      
+        title: "Day 155: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/06/day-155-progress-update/";
+        
+      },
+    },{id: "post-day-154-jazz-first-impressions",
+      
+        title: "Day 154: Jazz First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/05/day-154-jazz-first-impressions/";
+        
+      },
+    },{id: "post-day-153-timeline",
+      
+        title: "Day 153: Timeline",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/04/day-153-timeline/";
+        
+      },
+    },{id: "post-day-152-oops",
+      
+        title: "Day 152: Oops",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/03/day-152-oops/";
+        
+      },
+    },{id: "post-day-151-wernicke-39-s-aphasia",
+      
+        title: "Day 151: Wernicke&#39;s Aphasia",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/10/02/day-151-wernickes-aphasia/";
+        
+      },
+    },{id: "post-day-150-day-150",
+      
+        title: "Day 150: Day 150",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/29/day-150-day-150/";
+        
+      },
+    },{id: "post-day-149-how-many-stories-are-there",
+      
+        title: "Day 149: How Many Stories Are There?",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/28/day-149-how-many-stories-are-there/";
+        
+      },
+    },{id: "post-day-148-whiplash",
+      
+        title: "Day 148: Whiplash",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/27/day-148-whiplash/";
+        
+      },
+    },{id: "post-day-147-finishing-a-character-arc",
+      
+        title: "Day 147: Finishing a Character Arc",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/26/day-147-finishing-a-character-arc/";
+        
+      },
+    },{id: "post-day-146-why-say-lot-word",
+      
+        title: "Day 146: Why Say Lot Word?",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/25/day-146-why-say-lot-word/";
+        
+      },
+    },{id: "post-day-145-small-update",
+      
+        title: "Day 145: Small Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/22/day-145-small-update/";
+        
+      },
+    },{id: "post-day-144-ordinarily-extraordinary",
+      
+        title: "Day 144: Ordinarily Extraordinary",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/21/day-144-ordinarily-extraordinary/";
+        
+      },
+    },{id: "post-day-143-progress-update",
+      
+        title: "Day 143: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/20/day-143-progress-update/";
+        
+      },
+    },{id: "post-day-142-paragraphs",
+      
+        title: "Day 142: Paragraphs",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/19/day-142-paragraphs/";
+        
+      },
+    },{id: "post-day-141-lots-of-errands-today",
+      
+        title: "Day 141: Lots of Errands Today",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/18/day-141-lots-of-errands-today/";
+        
+      },
+    },{id: "post-day-140-the-real-reason-i-haven-39-t-finished-a-novel-yet",
+      
+        title: "Day 140: The Real Reason I Haven&#39;t Finished a Novel Yet",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/15/day-140-the-real-reason-i-havent-finished-a-novel-yet/";
+        
+      },
+    },{id: "post-day-139-thematic-mystery-and-the-force",
+      
+        title: "Day 139: Thematic Mystery and the Force",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/14/day-139-thematic-mystery-and-the-force/";
+        
+      },
+    },{id: "post-day-138-progress-update",
+      
+        title: "Day 138: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/13/day-138-progress-update/";
+        
+      },
+    },{id: "post-day-137-an-inspiring-interview",
+      
+        title: "Day 137: An Inspiring Interview",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/12/day-137-an-inspiring-interview/";
+        
+      },
+    },{id: "post-day-136-bass-guitar",
+      
+        title: "Day 136: Bass Guitar",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/11/day-136-bass-guitar/";
+        
+      },
+    },{id: "post-day-135-progress-update",
+      
+        title: "Day 135: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/08/day-135-progress-update/";
+        
+      },
+    },{id: "post-day-134-power-armor",
+      
+        title: "Day 134: Power Armor",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/07/day-134-power-armor/";
+        
+      },
+    },{id: "post-day-133-timeline-first-impressions",
+      
+        title: "Day 133: Timeline First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/06/day-133-timeline-first-impressions/";
+        
+      },
+    },{id: "post-day-132-interim-post",
+      
+        title: "Day 132: Interim Post",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/05/day-132-interim-post/";
+        
+      },
+    },{id: "post-day-131-nexus",
+      
+        title: "Day 131: Nexus",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/04/day-131-nexus/";
+        
+      },
+    },{id: "post-day-130-progress-update",
+      
+        title: "Day 130: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/09/01/day-130-progress-update/";
+        
+      },
+    },{id: "post-day-129-moon-landing-conspiracy-theorists",
+      
+        title: "Day 129: Moon Landing Conspiracy Theorists",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/31/day-129-moon-landing-conspiracy-theorists/";
+        
+      },
+    },{id: "post-day-128-hurricanes",
+      
+        title: "Day 128: Hurricanes",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/30/day-128-hurricanes/";
+        
+      },
+    },{id: "post-day-127-thoughts-on-oneiromancer",
+      
+        title: "Day 127: Thoughts on Oneiromancer",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/29/day-127-thoughts-on-oneiromancer/";
+        
+      },
+    },{id: "post-day-126-nexus-first-impressions",
+      
+        title: "Day 126: Nexus First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/28/day-125-nexus-first-impressions/";
+        
+      },
+    },{id: "post-day-125-progress-update",
+      
+        title: "Day 125: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/25/day-125-progress-update/";
+        
+      },
+    },{id: "post-day-124-book-haul",
+      
+        title: "Day 124: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/24/day-124-book-haul/";
+        
+      },
+    },{id: "post-day-123-beloved",
+      
+        title: "Day 123: Beloved",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/23/day-123-beloved/";
+        
+      },
+    },{id: "post-day-122-erik-satie",
+      
+        title: "Day 122: Erik Satie",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/22/day-122-erik-satie/";
+        
+      },
+    },{id: "post-day-121-the-fifth-element",
+      
+        title: "Day 121: The Fifth Element",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/21/day-121-the-fifth-element/";
+        
+      },
+    },{id: "post-day-120-derailing-the-plot-exercise",
+      
+        title: "Day 120: Derailing the Plot Exercise",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/18/day-120-derailing-the-plot-exercise/";
+        
+      },
+    },{id: "post-day-119-progress-update",
+      
+        title: "Day 119: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/17/day-119-progress-update/";
+        
+      },
+    },{id: "post-day-118-mental-disorders-in-media",
+      
+        title: "Day 118: Mental Disorders in Media",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/16/day-118-mental-disorders-in-media/";
+        
+      },
+    },{id: "post-post-117-baldur-39-s-gate-3",
+      
+        title: "Post 117: Baldur&#39;s Gate 3",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/15/post-117-baldurs-gate-3/";
+        
+      },
+    },{id: "post-day-116-some-physics-lore-for-you",
+      
+        title: "Day 116: Some Physics Lore for You",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/14/day-116-some-physics-lore-for-you/";
+        
+      },
+    },{id: "post-day-115-i-unlocked-a-new-fear-today",
+      
+        title: "Day 115: I Unlocked a New Fear Today",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/11/day-115-i-unlocked-a-new-fear-today/";
+        
+      },
+    },{id: "post-day-114-complex-adaptive-systems",
+      
+        title: "Day 114: Complex Adaptive Systems",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/10/day-113-complex-adaptive-systems/";
+        
+      },
+    },{id: "post-day-113-progress-update",
+      
+        title: "Day 113: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/09/day-112-progress-update/";
+        
+      },
+    },{id: "post-day-112-light-reading",
+      
+        title: "Day 112: Light Reading",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/08/day-112-light-reading/";
+        
+      },
+    },{id: "post-day-111-getting-mired-in-the-details",
+      
+        title: "Day 111: Getting Mired in the Details",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/07/day-111-getting-mired-in-the-details/";
+        
+      },
+    },{id: "post-day-110-thoughts-on-beloved-so-far",
+      
+        title: "Day 110: Thoughts on Beloved So Far",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/04/day-110-thoughts-on-beloved-so-far/";
+        
+      },
+    },{id: "post-day-109-progress-report",
+      
+        title: "Day 109: Progress Report",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/03/day-109-progress-report/";
+        
+      },
+    },{id: "post-day-108-spinning-my-wheels",
+      
+        title: "Day 108: Spinning my Wheels",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/02/day-108-spinning-my-wheels/";
+        
+      },
+    },{id: "post-day-107-beach-day",
+      
+        title: "Day 107: Beach Day",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/08/01/day-107-beach-day/";
+        
+      },
+    },{id: "post-day-106-interstellar",
+      
+        title: "Day 106: Interstellar",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/31/day-106-interstellar/";
+        
+      },
+    },{id: "post-day-105-congress-and-ufos",
+      
+        title: "Day 105: Congress and UFOs?!?",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/28/day-105-congress-and-ufos/";
+        
+      },
+    },{id: "post-day-104-beloved-first-impressions",
+      
+        title: "Day 104: Beloved First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/27/day-104-beloved-first-impressions/";
+        
+      },
+    },{id: "post-day-103-thoughts-on-the-future-of-the-blog",
+      
+        title: "Day 103: Thoughts on the Future of the Blog",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/26/day-103-thoughts-on-the-future-of-the-blog/";
+        
+      },
+    },{id: "post-day-102-making-good-progress-today",
+      
+        title: "Day 102: Making Good Progress Today",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/25/day-102-making-good-progress-today/";
+        
+      },
+    },{id: "post-day-101-a-moveable-feast",
+      
+        title: "Day 101: A Moveable Feast",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/24/day-101-a-moveable-feast/";
+        
+      },
+    },{id: "post-oneiromancer-ch-1",
+      
+        title: "Oneiromancer Ch. 1",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/21/oneiromancer-ch-1/";
+        
+      },
+    },{id: "post-day-100",
+      
+        title: "Day 100: !!!!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/21/day-100/";
+        
+      },
+    },{id: "post-day-99-progress-update",
+      
+        title: "Day 99: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/20/day-99-progress-update/";
+        
+      },
+    },{id: "post-day-98-my-favorite-faustian-bargain",
+      
+        title: "Day 98: My Favorite Faustian Bargain",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/19/day-98-my-favorite-faustian-bargain/";
+        
+      },
+    },{id: "post-day-97-almost-there",
+      
+        title: "Day 97: Almost There ...",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/18/day-97-almost-there/";
+        
+      },
+    },{id: "post-day-96-from-worldbuilding-to-storytelling",
+      
+        title: "Day 96: From Worldbuilding to Storytelling",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/17/day-96-from-worldbuilding-to-storytelling/";
+        
+      },
+    },{id: "post-day-95-space-war",
+      
+        title: "Day 95: Space War",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/14/day-95-space-war/";
+        
+      },
+    },{id: "post-day-94-a-moveable-feast-first-impressions",
+      
+        title: "Day 94: A Moveable Feast First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/13/day-94-a-moveable-feast-first-impressions/";
+        
+      },
+    },{id: "post-day-93-progress-update",
+      
+        title: "Day 93: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/12/day-93-progress-update/";
+        
+      },
+    },{id: "post-day-92-the-forever-war",
+      
+        title: "Day 92: The Forever War",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/11/day-92-the-forever-war/";
+        
+      },
+    },{id: "post-day-91-short-post-today",
+      
+        title: "Day 91: Short Post Today",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/10/day-91-short-post-today/";
+        
+      },
+    },{id: "post-day-90-megastructures",
+      
+        title: "Day 90: Megastructures",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/07/day-90-megastructures/";
+        
+      },
+    },{id: "post-day-89-progress-update",
+      
+        title: "Day 89: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/06/day-89-progress-update/";
+        
+      },
+    },{id: "post-day-88-the-forever-war-first-impressions",
+      
+        title: "Day 88: The Forever War First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/05/day-88-the-forever-war-first-impressions/";
+        
+      },
+    },{id: "post-day-87-nuclear-capable-orca",
+      
+        title: "Day 87: Nuclear-Capable Orca",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/04/day-87-nuclear-capable-orca/";
+        
+      },
+    },{id: "post-day-86-jurassic-park",
+      
+        title: "Day 86: Jurassic Park",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/07/03/day-86-jurassic-park/";
+        
+      },
+    },{id: "post-day-85-friday-again",
+      
+        title: "Day 85: Friday Again",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/30/day-85-friday-again/";
+        
+      },
+    },{id: "post-day-84-progress-update",
+      
+        title: "Day 84: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/29/day-84-progress-update/";
+        
+      },
+    },{id: "post-day-83-retrospective-2",
+      
+        title: "Day 83: Retrospective 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/28/day-83-retrospective-2/";
+        
+      },
+    },{id: "post-day-82-jurassic-park-first-impressions",
+      
+        title: "Day 82: Jurassic Park First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/27/day-82-jurassic-park-first-impressions/";
+        
+      },
+    },{id: "post-day-81-book-haul",
+      
+        title: "Day 81: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/26/day-81-book-haul/";
+        
+      },
+    },{id: "post-day-80-struggling-with-words-today",
+      
+        title: "Day 80: Struggling With Words Today",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/23/day-80-struggling-with-words-today/";
+        
+      },
+    },{id: "post-day-79-blog-update-and-20-subscribers",
+      
+        title: "Day 79: Blog Update, and 20 Subscribers!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/22/day-79-blog-update-and-20-subscribers/";
+        
+      },
+    },{id: "post-day-78-one-step-closer",
+      
+        title: "Day 78: One Step Closer",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/21/day-78-one-step-closer/";
+        
+      },
+    },{id: "post-day-77-got-carried-away",
+      
+        title: "Day 77: Got Carried Away",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/20/day-77-got-carried-away/";
+        
+      },
+    },{id: "post-day-76-giant-stories",
+      
+        title: "Day 76: GIANT Stories",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/19/day-76-giant-stories/";
+        
+      },
+    },{id: "post-day-75-the-bet",
+      
+        title: "Day 75: The Bet",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/16/day-75-the-bet/";
+        
+      },
+    },{id: "post-day-74-progress-update",
+      
+        title: "Day 74: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/15/day-74-progress-update/";
+        
+      },
+    },{id: "post-day-73-terrible-decision-i-made-this-morning",
+      
+        title: "Day 73: Terrible Decision I made this Morning",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/14/day-73-terrible-decision-i-made-this-morning/";
+        
+      },
+    },{id: "post-day-72-continuing-on-with-the-classics",
+      
+        title: "Day 72: Continuing on with the Classics",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/13/day-72-continuing-on-with-the-classics/";
+        
+      },
+    },{id: "post-day-71-dracula",
+      
+        title: "Day 71: Dracula",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/12/day-71-dracula/";
+        
+      },
+    },{id: "post-day-70-coincidence",
+      
+        title: "Day 70: Coincidence?",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/09/day-70-coincidence/";
+        
+      },
+    },{id: "post-day-69-dracula-impressions",
+      
+        title: "Day 69: Dracula Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/08/day-69-dracula-impressions/";
+        
+      },
+    },{id: "post-day-68",
+      
+        title: "Day 68:",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/07/day-68/";
+        
+      },
+    },{id: "post-day-67-my-book-is-getting-too-complicated",
+      
+        title: "Day 67: My Book is Getting too Complicated",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/06/day-67-my-book-is-getting-too-complicated/";
+        
+      },
+    },{id: "post-day-66-time-flies",
+      
+        title: "Day 66: Time Flies",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/05/day-66-time-flies/";
+        
+      },
+    },{id: "post-day-65-progress-update",
+      
+        title: "Day 65: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/02/day-65-progress-update/";
+        
+      },
+    },{id: "post-day-64-motivation-pt-3",
+      
+        title: "Day 64: Motivation pt. 3",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/06/01/day-64-motivation-pt-3/";
+        
+      },
+    },{id: "post-day-63-motivation-pt-2",
+      
+        title: "Day 63: Motivation pt. 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/31/day-63-motivation-pt-2/";
+        
+      },
+    },{id: "post-day-62-motivation-pt-1",
+      
+        title: "Day 62: Motivation Pt. 1",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/30/day-62-motivation-pt-1/";
+        
+      },
+    },{id: "post-day-61-happy-memorial-day",
+      
+        title: "Day 61: Happy Memorial Day",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/29/day-61-happy-memorial-day/";
+        
+      },
+    },{id: "post-day-60-retrospective-pt-2",
+      
+        title: "Day 60: Retrospective Pt. 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/26/day-60-retrospective-pt-2/";
+        
+      },
+    },{id: "post-day-59-retrospective-pt-1",
+      
+        title: "Day 59: Retrospective Pt. 1",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/25/day-59-retrospective-pt-1/";
+        
+      },
+    },{id: "post-day-58-the-work-continues",
+      
+        title: "Day 58: The Work Continues",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/24/day-58-the-work-continues/";
+        
+      },
+    },{id: "post-day-57-ugh",
+      
+        title: "Day 57: Ugh",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/23/day-57-ugh/";
+        
+      },
+    },{id: "post-day-56-for-whom-the-bell-tolls",
+      
+        title: "Day 56: For Whom the Bell Tolls",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/22/day-56-for-whom-the-bell-tolls/";
+        
+      },
+    },{id: "post-day-55-happy-friday",
+      
+        title: "Day 55: Happy Friday",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/19/day-55-happy-friday/";
+        
+      },
+    },{id: "post-day-54-captain-obvious",
+      
+        title: "Day 54: Captain Obvious",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/18/day-54-captain-obvious/";
+        
+      },
+    },{id: "post-day-53-short-progress-update",
+      
+        title: "Day 53: Short Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/17/day-53-short-progress-update/";
+        
+      },
+    },{id: "post-day-52-suspension-of-disbelief",
+      
+        title: "Day 52: Suspension of Disbelief",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/16/day-52-suspension-of-disbelief/";
+        
+      },
+    },{id: "post-day-51-a-tale-of-two-cities",
+      
+        title: "Day 51: A Tale of Two Cities",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/15/day-51-a-tale-of-two-cities/";
+        
+      },
+    },{id: "post-day-50-couldn-39-t-sleep",
+      
+        title: "Day 50: Couldn&#39;t Sleep",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/12/day-50-couldnt-sleep/";
+        
+      },
+    },{id: "post-day-49-trivial-details",
+      
+        title: "Day 49: Trivial Details",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/11/day-49-trivial-details/";
+        
+      },
+    },{id: "post-day-48-new-character",
+      
+        title: "Day 48: New Character!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/10/day-48-new-character/";
+        
+      },
+    },{id: "post-day-47-my-watch",
+      
+        title: "Day 47: My Watch",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/09/day-47-my-watch/";
+        
+      },
+    },{id: "post-day-46-an-actual-blog-post",
+      
+        title: "Day 46: An Actual Blog Post",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/08/day-46-an-actual-blog-post/";
+        
+      },
+    },{id: "post-day-45-progress-update",
+      
+        title: "Day 45: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/05/day-45-progress-update/";
+        
+      },
+    },{id: "post-day-44-unlikely-allies",
+      
+        title: "Day 44: Unlikely Allies",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/04/day-44-unlikely-allies/";
+        
+      },
+    },{id: "post-day-43-chatgpt-4-0",
+      
+        title: "Day 43: ChatGPT 4.0",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/03/day-43-chatgpt-4-0/";
+        
+      },
+    },{id: "post-day-42-endings",
+      
+        title: "Day 42: Endings",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/02/day-42-endings/";
+        
+      },
+    },{id: "post-day-41-the-complete-short-stories-of-mark-twain",
+      
+        title: "Day 41: The Complete Short Stories of Mark Twain",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/05/01/day-41-the-complete-short-stories-of-mark-twain/";
+        
+      },
+    },{id: "post-day-40-book-haul",
+      
+        title: "Day 40: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/28/day-40-book-haul/";
+        
+      },
+    },{id: "post-day-39-progress-update",
+      
+        title: "Day 39: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/27/day-39-progress-update/";
+        
+      },
+    },{id: "post-day-38-humor-in-fiction-pt-2",
+      
+        title: "Day 38: Humor in Fiction Pt. 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/26/day-38-humor-in-fiction-pt-2/";
+        
+      },
+    },{id: "post-day-37-humor-in-fiction-pt-1",
+      
+        title: "Day 37: Humor in Fiction Pt. 1",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/25/day-37-humor-in-fiction-pt-1/";
+        
+      },
+    },{id: "post-day-36-the-notorious-jumping-frog-of-calaveras-county",
+      
+        title: "Day 36: The Notorious Jumping Frog of Calaveras County",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/24/day-36/";
+        
+      },
+    },{id: "post-day-35-early-writing-tools",
+      
+        title: "Day 35: Early Writing Tools",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/21/day-35-early-writing-tools/";
+        
+      },
+    },{id: "post-day-34-progress-update",
+      
+        title: "Day 34: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/20/day-34-progress-update/";
+        
+      },
+    },{id: "post-day-33-a-tale-of-two-cities",
+      
+        title: "Day 33: A Tale of Two Cities",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/19/day-33-a-tale-of-two-cities/";
+        
+      },
+    },{id: "post-day-32-brave-new-world",
+      
+        title: "Day 32: Brave New World",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/18/day-33-brave-new-world/";
+        
+      },
+    },{id: "post-day-31-generating-ideas",
+      
+        title: "Day 31: Generating Ideas",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/17/day-31-generating-ideas/";
+        
+      },
+    },{id: "post-day-30-dystopian-fiction",
+      
+        title: "Day 30: Dystopian Fiction",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/14/day-30-dystopian-fiction/";
+        
+      },
+    },{id: "post-day-29-progress-update",
+      
+        title: "Day 29: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/13/day-29-progress-update/";
+        
+      },
+    },{id: "post-day-28-brave-new-world-first-impressions",
+      
+        title: "Day 28: Brave New World First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/12/day-28-brave-new-world-first-impressions/";
+        
+      },
+    },{id: "post-day-27-wool-cont",
+      
+        title: "Day 27: Wool Cont.",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/11/day-27-wool-cont/";
+        
+      },
+    },{id: "post-day-26-wool",
+      
+        title: "Day 26: Wool",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/10/day-26-wool/";
+        
+      },
+    },{id: "post-day-25-frankenstein",
+      
+        title: "Day 25: Frankenstein",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/07/day-25-frankenstein/";
+        
+      },
+    },{id: "post-day-24-progress-update",
+      
+        title: "Day 24: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/06/day-24-progress-update/";
+        
+      },
+    },{id: "post-day-23-the-boys-in-the-basement",
+      
+        title: "Day 23: The Boys in the Basement",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/05/day-23-the-boys-in-the-basement/";
+        
+      },
+    },{id: "post-day-22-fun-exercises",
+      
+        title: "Day 22: Fun Exercises",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/04/day-22-fun-exercises/";
+        
+      },
+    },{id: "post-day-21-poetry",
+      
+        title: "Day 21: Poetry",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/04/03/day-21-poetry/";
+        
+      },
+    },{id: "post-day-20-frankenstein-first-impressions",
+      
+        title: "Day 20: Frankenstein First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/31/day-20-frankenstein-first-impressions/";
+        
+      },
+    },{id: "post-day-19-a-few-updates",
+      
+        title: "Day 19: A Few Updates",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/30/day-18-a-few-updates/";
+        
+      },
+    },{id: "post-day-18-book-reviews",
+      
+        title: "Day 18: Book Reviews",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/29/day-17-book-reviews/";
+        
+      },
+    },{id: "post-day-17-just-another-day",
+      
+        title: "Day 17: Just Another Day?",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/28/day-17-just-another-day/";
+        
+      },
+    },{id: "post-day-16-next-steps",
+      
+        title: "Day 16: Next Steps",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/27/day-16-next-steps/";
+        
+      },
+    },{id: "post-day-15-progress-update",
+      
+        title: "Day 15: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/24/day-15-progress-update/";
+        
+      },
+    },{id: "post-day-14-powerful-characters",
+      
+        title: "Day 14: Powerful Characters",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/23/day-14-powerful-characters/";
+        
+      },
+    },{id: "post-day-13-pacing-part-2",
+      
+        title: "Day 13: Pacing Part 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/22/day-13-pacing-part-2/";
+        
+      },
+    },{id: "post-day-12-pacing",
+      
+        title: "Day 12: Pacing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/21/day-12-tempo/";
+        
+      },
+    },{id: "post-day-11-tracking-system",
+      
+        title: "Day 11: Tracking System",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/20/day-11-tracking-system/";
+        
+      },
+    },{id: "post-adrift",
+      
+        title: "Adrift",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/17/adrift/";
+        
+      },
+    },{id: "post-day-10-progress-update",
+      
+        title: "Day 10: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/17/day-10-progress-update/";
+        
+      },
+    },{id: "post-day-9-book-haul-part-2",
+      
+        title: "Day 9: Book Haul Part 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/16/day-9-book-haul-part-2/";
+        
+      },
+    },{id: "post-day-8-making-an-impact",
+      
+        title: "Day 8: Making an Impact",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/15/day-8-making-an-impact/";
+        
+      },
+    },{id: "post-day-7-book-haul",
+      
+        title: "Day 7: Book Haul",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/14/day-7-book-haul/";
+        
+      },
+    },{id: "post-day-6-inspiration-and-motivation",
+      
+        title: "Day 6: Inspiration and Motivation",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/13/day-6-inspiration-and-motivation/";
+        
+      },
+    },{id: "post-day-5-friday",
+      
+        title: "Day 5: Friday!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/10/day-5-friday/";
+        
+      },
+    },{id: "post-day-4-publishing",
+      
+        title: "Day 4: Publishing",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/09/day-4-publishing/";
+        
+      },
+    },{id: "post-day-3-bread-and-butter-and-housekeeping",
+      
+        title: "Day 3: Bread and Butter and Housekeeping",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/08/day-3-bread-and-butter-and-housekeeping/";
+        
+      },
+    },{id: "post-day-2-plans",
+      
+        title: "Day 2: Plans",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/07/day-2-plans/";
+        
+      },
+    },{id: "post-my-first-blog-post",
+      
+        title: "My First Blog Post",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2023/03/06/my-first-blog-post/";
         
       },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -330,105 +5346,6 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-        
-      },
-    },{id: "post-a-post-with-redirect",
-      
-        title: "a post with redirect",
-      
-      description: "you can also redirect to assets like pdf",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/assets/pdf/example_pdf.pdf";
-        
-      },
-    },{id: "post-a-post-with-diagrams",
-      
-        title: "a post with diagrams",
-      
-      description: "an example of a blog post with diagrams",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/diagrams/";
-        
-      },
-    },{id: "post-a-distill-style-blog-post",
-      
-        title: "a distill-style blog post",
-      
-      description: "an example of a distill-style blog post and main elements",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/distill/";
-        
-      },
-    },{id: "post-a-post-with-twitter",
-      
-        title: "a post with twitter",
-      
-      description: "an example of a blog post with twitter",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/twitter/";
-        
-      },
-    },{id: "post-a-post-with-disqus-comments",
-      
-        title: "a post with disqus comments",
-      
-      description: "an example of a blog post with disqus comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/disqus-comments/";
-        
-      },
-    },{id: "post-a-post-with-math",
-      
-        title: "a post with math",
-      
-      description: "an example of a blog post with some math",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/math/";
-        
-      },
-    },{id: "post-a-post-with-code",
-      
-        title: "a post with code",
-      
-      description: "an example of a blog post with some code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/code/";
-        
-      },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
         
       },
     },{id: "news-a-simple-inline-announcement",
@@ -447,46 +5364,6 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
