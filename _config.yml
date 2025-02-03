@@ -265,8 +265,8 @@ display_categories: ["daily"] # these categories will be displayed on the front 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Hawley]
+  first_name: [Benjamin, C.]
 
   style: apa
   locale: en
