@@ -1,0 +1,180 @@
+---
+layout: post
+title: 'Day 298: How Machines Learn Pt. 2'
+date: 2024-04-24 15:55:55.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Daily
+tags:
+- author
+- authors
+- blog
+- books
+- dangerousdayjob
+- deep-learning
+- machine-learning
+- neural-networks
+- writing
+meta:
+  _jetpack_memberships_contains_paywalled_content: ''
+  _jetpack_memberships_contains_paid_content: ''
+  _last_editor_used_jetpack: block-editor
+  wordads_ufa: s:wpcom-ufa-v4:1713988841
+  firehose_sent: '1713988557'
+  timeline_notification: '1713988558'
+  _publicize_job_id: '93941415519'
+  _oembed_fb4193ff519a2ac4d23d3de0cfebb124: <div class="embed-youtube"><iframe title="Neural
+    Networks from Scratch - P.5 Hidden Layer Activation Functions" width="500" height="281"
+    src="https://www.youtube.com/embed/gmjzbpSVY1A?start=540&feature=oembed" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+    web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+  _oembed_time_fb4193ff519a2ac4d23d3de0cfebb124: '1724994357'
+  _oembed_1a121db0e189094971ec86e29e87fefa: <div class="embed-youtube"><iframe title="Neural
+    Networks from Scratch - P.5 Hidden Layer Activation Functions" width="750" height="422"
+    src="https://www.youtube.com/embed/gmjzbpSVY1A?start=540&feature=oembed" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+    web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+  _oembed_time_1a121db0e189094971ec86e29e87fefa: '1731473561'
+  _elasticsearch_data_sharing_indexed_on: '2024-07-17 14:19:34'
+author:
+  login: bhawleywrites
+  email: hawleybenjamin1@gmail.com
+  display_name: bhawleywrites
+  first_name: ''
+  last_name: ''
+permalink: "/2024/04/24/day-298-how-machines-learn-pt-2/"
+---
+<p><!-- wp:paragraph --></p>
+<p>Yesterday I started on a rather convoluted topic, but hopefully if you wrapped your head around what a layer does to the inputs it receives, then today's post should be easier to understand. Here was the output of the layer from yesterday's example.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:table --></p>
+<figure class="wp-block-table">
+<table class="has-fixed-layout">
+<tbody>
+<tr /></tbody>
+</table>
+<th>﻿</th>
+<th class="has-text-align-center" data-align="center">N1</th>
+<th class="has-text-align-center" data-align="center">N2</th>
+<th class="has-text-align-center" data-align="center">N3</th>
+<th class="has-text-align-center" data-align="center">N4</th>
+<td class="has-text-align-center" data-align="center" /><strong>N5</strong><br />
+<tr />
+<th>Output</th>
+<td class="has-text-align-center" data-align="center">0.62</td>
+<td class="has-text-align-center" data-align="center">0.455</td>
+<td class="has-text-align-center" data-align="center">0.975</td>
+<td class="has-text-align-center" data-align="center">0.18</td>
+<td class="has-text-align-center" data-align="center">0.125</td>
+</figure>
+<p><!-- /wp:table --></p>
+<p><!-- wp:paragraph --></p>
+<p>What we'd like to do is pass these values to a new layer. Recall that each layer has neurons with weights and biases, like knobs on a large machine. Passing these values to a new layer would allow even finer control over the effect the network has on the inputs. Deciding how many layers is a whole other topic, but for now we can just assume that two layers will be better than one. In fact, two layers between the first input and the final output is pretty much required for reasons I'll try to explain right now.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>We can't simply pass these inputs along to a new layer, or to the final output layer. As stated yesterday, the function these neurons apply to their inputs is this:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>output = inputs x weights + bias</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is identical to the equation of a line.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>y = mx + b</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Where the weights determine the slope of the output line (m), and the bias determines the intercept of the line (b). Currently, all our neural network can do is take inputs and turn them into lines. No matter how many layers we stack up on top of each other, the output will always look like a line because all we are doing is multiplying previous inputs by a new slope. Most data in the real world does not have a perfectly linear relationship. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The whole thing is useless! That is, if we leave it as is. To solve this, the linearity of the system must be broken. There needs to be a way to introduce curves or kinks into these lines. What if we could have a neuron or a couple of neurons only define one section of a line? Then we could make a curve that's just a bunch of tiny line segments. We might then say that some neurons are <strong>active </strong>for certain inputs. I.E any given neuron can only contribute to the line when we want them to. This is exactly what an <strong>activation function</strong> achieves.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>An activation function sits between layers of neurons and decides which neurons will get to play their part. It's part of the picture that's missing from diagrams like these:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"lightbox":{"enabled":false},"id":2833,"sizeSlug":"large","linkDestination":"custom"} --></p>
+<figure class="wp-block-image size-large"><a href="https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/" /><img src="{{ site.baseurl }}/assets/2024/04/image-12.png?w=800" alt="" class="wp-image-2833" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>In fact I couldn't find a single diagram that indicates the existence of an activation function between neurons. They're such an integral part of these networks it's kinda hard to believe nobody includes them in the diagram. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Anyway here's a visual for how they work.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>First we just start with a line. If we take the input and our entire neural network was active at the same time, we'd get something like this:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2839,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/2024/04/image-14.png?w=1024" alt="" class="wp-image-2839" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Those sliders, w1 and b1 determine the slope and position of the line. Those could be just one weight, or they could be every weight and bias added together. If every neuron is always active, all the neurons' weights and biases will end up multiplied or added to the final output. That's why we'll always get a line (or at least, a representation of a linear relationship) without any activation function.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Changing weight:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2859,"width":"649px","height":"auto","sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large is-resized"><img src="{{ site.baseurl }}/assets/2024/04/lineslopegif-2.gif?w=462" alt="" class="wp-image-2859" style="width:649px;height:auto" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Changing bias:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2858,"width":"649px","height":"auto","sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large is-resized"><img src="{{ site.baseurl }}/assets/2024/04/lineinterceptgif-4.gif?w=600" alt="" class="wp-image-2858" style="width:649px;height:auto" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Today we'll be looking at the rectified linear or ReLI activation function. All it does is cut a line off where it's output is not greater than 0. This is enough to break linearity and allow us to make some more interesting shapes.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This next line is what happens when the activation function is applied it's active where the original input is between 0 and infinity.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2850,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/2024/04/image-16.png?w=1024" alt="" class="wp-image-2850" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Notice these aren't completely new lines, I'm taking the output of the previous function and doing new operations to it, just like the neural network will.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Now what if I want a line that's active only over a constrained area like we talked about before? I need to do a few operations. First I'll pass the output of the activation function to a new neuron, and use the weight and bias to set some limits.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2851,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/2024/04/image-17.png?w=1024" alt="" class="wp-image-2851" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Then I have to pass this to another activation function.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2853,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/2024/04/image-18.png?w=1024" alt="" class="wp-image-2853" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>And there you go, the output is no longer just a single line. I can even reverse this again by applying one last weight to it as it's accepted by the output neuron to get this.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2855,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{ site.baseurl }}/assets/2024/04/image-19.png?w=1024" alt="" class="wp-image-2855" /></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>This is about as simple as I can possibly get. This neural 'network' would just be four neurons. Input neuron that receives X values, two hidden neurons, and a final output neuron that gives us the Y values as displayed in the calculator. Stack several of these neuron pairs together and you can make a curve, as demonstrated in this video with much more depth:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:embed {"url":"https://youtu.be/gmjzbpSVY1A?si=FpkewgdGRaFy6rex\u0026amp;t=540","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+https://youtu.be/gmjzbpSVY1A?si=FpkewgdGRaFy6rex&amp;t=540
+</div>
+</figure>
+<p><!-- /wp:embed --></p>
+<p><!-- wp:paragraph --></p>
+<p>Something to keep in mind is that these outputs are lines because I've used two neurons, or as he does in the video, neuron pairs. For a dense layer as we explored yesterday, the output could be reduced to lines at the very end if that were your prerogative, but the actual output of each individual layer is impossible to visualize. Those matrix multiplications we were doing yesterday can get into the hundreds of dimensions. This was a simplified example for the sake of figuring out what the heck is going on in there. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>That's about it for the rectified linear activation function. Tomorrow I'll finish this neural network series up with one more post, and then I'll move on to my usual book review and literary content. I wanted to give more technical writing a try and found out it's pretty hard. I'll have some good material to look back on and learn from, and maybe in the future I'll give some other technical concept a try. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Thank you for reading,</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Benjamin Hawley</p>
+<p><!-- /wp:paragraph --></p>

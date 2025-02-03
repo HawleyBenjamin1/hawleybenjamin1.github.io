@@ -1,0 +1,82 @@
+---
+layout: post
+title: 'Day 439: Electricity is Magic'
+date: 2024-11-07 19:39:21.000000000 -05:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Daily
+tags:
+- arduino
+- author
+- dangerousdayjob
+- diy
+- electricity
+- electronics
+- engineering
+- physics
+- sci fi
+- science
+meta:
+  _last_editor_used_jetpack: block-editor
+  _oembed_05f410b7789459ec53c4fe8fa79fc157: <div class="embed-youtube"><iframe title="Watch
+    electricity hit a fork in the road at half a billion frames per second" width="500"
+    height="281" src="https://www.youtube.com/embed/2AXv49dDQJw?feature=oembed" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+    web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+  _oembed_49ece75ec1b80f52dc306c68e216c453: <div class="embed-youtube"><iframe title="Watch
+    electricity hit a fork in the road at half a billion frames per second" width="750"
+    height="422" src="https://www.youtube.com/embed/2AXv49dDQJw?feature=oembed" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+    web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+  _oembed_time_49ece75ec1b80f52dc306c68e216c453: '1732158180'
+  _elasticsearch_data_sharing_indexed_on: '2024-11-08 00:37:23'
+  firehose_sent: '1731026363'
+  timeline_notification: '1731026364'
+  _publicize_job_id: '99232127635'
+  _oembed_time_05f410b7789459ec53c4fe8fa79fc157: '1735881213'
+author:
+  login: bhawleywrites
+  email: hawleybenjamin1@gmail.com
+  display_name: bhawleywrites
+  first_name: ''
+  last_name: ''
+permalink: "/2024/11/07/day-439-electricity-is-magic/"
+---
+<p><!-- wp:paragraph --></p>
+<p>Taking a departure from writing today, I spent most of my time working on building circuits for fun. They were simple little things most people probably did in school. Connect a power source to a light bulb, put a switch in series vs in parallel, that sort of thing. Over the course of this experimentation I realized something strange that I never thought about in school. The little LEDs I was using in all my circuits have a pretty low amperage rating, meaning that I need to connect a resistor in series with them if I want to avoid destroying them with too much power. When too much electricity flows through the LEDs, they overheat and pop, and also emit a little bit of smoke sometimes. Kinda fun, but not really advisable, so the resistor between the battery and the LED is pretty much a requirement. The resistor lowers the amount of current passing through the wire according to Ohm's law, voltage = current * resistance. The voltage of the battery is fixed, so the more resistance in the system, the less current there will be over its components. The strange part came when I realized that it didn't matter whether the resistor came before or after the LED in the sequence. No matter which side the LED goes on, the resistor still protects it from the power surging through the wire. I found this really strange because it went against everything I thought I understood about electricity. Admittedly it wasn't much, but I at least thought I understood that electricity flows from one end of the battery to another, and if you have something closer to the negative end, it's going to get all that current first. In other words, the LED should explode the second all that current from the battery hits it before it can reach the resistor right? As I found out though, this is not really true ...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you just spend some time googling, 'why do components in series get the same current' or 'why on Earth does my resistor break the laws of causality' the answers you will get are pretty unsatisfying in my opinion. Most of them use some form of analogy to get the point across, usually involving water. The closest one I got described the electrons in the wires as standing water in a pipe, and suggested that the reason the LED isn't blown out when the battery is connected is that the backpressure from the resistor acts like a smaller pipe preventing a pump from pulling water through at full speed. I had a few issues with this, but I think it is pretty accurate when it comes to the system in a steady state. What I couldn't understand is how that small pipe could possibly affect the initial electric waves that pass into the LED since the resistor must receive them later. Even if the 'water' is standing in the pipe already, electricity propagates like a compression wave through the electric fields around the wire. If that wave is powerful enough, it should just destroy anything between it and the small pipe (resistor) before it even has a chance for back pressure to even things out, right?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It took me a while, but I think I finally found the answer to this problem. And no, electricity doesn't break the laws of causality, though that would be cool.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:embed {"url":"https://youtu.be/2AXv49dDQJw?si=huzIY-iGY-AOYWGy","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+https://youtu.be/2AXv49dDQJw?si=huzIY-iGY-AOYWGy
+</div>
+</figure>
+<p><!-- /wp:embed --></p>
+<p><!-- wp:paragraph --></p>
+<p>Essentially what the video shows is the current takes a path through the wires, bounces back whenever it hits something, and affects the amount of current coming through from the battery. Based on what was seen in the video, this can take several oscillations back and forth. It doesn't <em>exactly</em> answer my question, but I think it offers enough information to do so. This video, combined with a topic I found called 'inrush current,' gives me a pretty clear answer:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I believe the current is initially higher within the LED than it is rated for before the current hits the resistor. After the current passes through the LED, it hits the resistor and bounces back like a wave as seen in the video. Since electricity is so fast, it can balance out the entire series to the same current in mere nanoseconds. It doesn't matter which side the resistor goes on because the initial current the LED experiences is extremely short lived. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This does make me wonder though ... What if you took a battery and one of these LEDs, put it in series with a resistor after, and then made the wire between the LED and the resistor incredibly long? Would the resistor still protect the LED then? Would the electricity be able to backpropagate fast enough after it hits the resistor to save the LED? I think the answer is no, but I'm not certain. If a resistor can protect and LED before the electricity in the wire has even reached the resistor, this would debunk my theory about why the resistor can go on either side. I'd really like to see someone do this experiment and see what happens. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I'm not sure how long exactly it takes to burn out an LED with the current from a nine volt battery. Google says 'instantly' but since nothing is actually instant, I don't think that's true. Lets just say it takes one ten thousandth of a second. Electricity flows through a copper wire at pretty close to the speed of light. To get a wire long enough to test this hypothesis I'd need one that's about thirty thousand meters long. That's a lot of wire, but if the LED burned out at, say, a microsecond, I'd only need three hundred meters of wire to test this out. With a wire with slower transmission speed, I could cut it down even further. That's pretty doable ... Maybe I could actually test this sometime ...</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Thank you for reading,</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Benjamin Hawley</p>
+<p><!-- /wp:paragraph --></p>

@@ -1,0 +1,77 @@
+---
+layout: post
+title: 'Day 310: Neural Network Actually Works, Somehow'
+date: 2024-05-10 19:06:35.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Daily
+tags:
+- ai
+- artificial-intelligence
+- classifier
+- coding
+- computers
+- dangerousdayjob
+- deep-learning
+- github
+- machine-learning
+- neural-networks
+- projects
+- technology
+meta:
+  timeline_notification: '1715382398'
+  firehose_sent: '1715382397'
+  _jetpack_memberships_contains_paid_content: ''
+  _last_editor_used_jetpack: block-editor
+  wordads_ufa: s:wpcom-ufa-v4:1715382640
+  reader_suggested_tags: '["AI","Artificial Intelligence","Machine Learning","Deep-learning","Technology"]'
+  _jetpack_memberships_contains_paywalled_content: ''
+  _publicize_job_id: '94447459153'
+  _elasticsearch_data_sharing_indexed_on: '2024-07-17 14:19:35'
+author:
+  login: bhawleywrites
+  email: hawleybenjamin1@gmail.com
+  display_name: bhawleywrites
+  first_name: ''
+  last_name: ''
+permalink: "/2024/05/10/day-310-neural-network-actually-works-somehow/"
+---
+<p><!-- wp:paragraph --></p>
+<p>Late post today, but for good reason this time! I finally finished off that side project I was working on. My neural net classifier actually works! And it seems to hit benchmarks laid out by other neural networks on publicly available data. Somehow. Anyway there's not much to this post, I just wanted to show this off:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:video {"autoplay":true,"controls":false,"id":3023,"loop":true,"guid":"LHpQIQem","videoPressClassNames":"wp-block-embed is-type-video is-provider-videopress"} --></p>
+<figure class="wp-block-video wp-block-embed is-type-video is-provider-videopress">
+<div class="wp-block-embed__wrapper">
+https://videopress.com/v/LHpQIQem?resizeToParent=true&amp;cover=true&amp;autoPlay=true&amp;controls=false&amp;loop=true&amp;preloadContent=metadata&amp;useAverageColor=true
+</div>
+<figcaption>Neural Network in training</figcaption>
+</figure>
+<p><!-- /wp:video --></p>
+<p><!-- wp:paragraph --></p>
+<p>Sorry that's so blurry, wordpress doesn't have great video support it seems. Anyway what you're looking at there is the model training itself on some data. Each 'Epoch' is a complete run through the system as I detailed in last week's series of posts. Forward pass, backpropagation, and optimization. Then it just does that 15,000 times. Each time the loss falls a little and the accuracy (hopefully) gets a little better. I displayed the loss and accuracy every 100 epochs, but there's lots of other metrics I can extract from the network in the future. Should be fun to tinker around with now that it's actually functioning. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>After training I ran the model against similar data it had not yet been exposed to. All data was from the UCI Machine Learning repository, an amazing resource for anybody trying to learn about this stuff. The data comes pretty clean, and the site even has benchmarks to check your own classifiers against. I used the heart disease repository, a collection of data that has a ton of features related to heart health, and an indication of whether or not each patient actually had heart issues. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Given several features like exercise patterns, heartrate, family history, etc., my network was able to predict whether someone had a heart disease with an accuracy close to 80%, which is right smack dab in the middle of the benchmark set by other professionally built neural networks. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I honestly can't believe it actually works. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://archive.ics.uci.edu/dataset/45/heart+disease">You can check out the data here if you're interested.</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://github.com/HawleyBenjamin1/NeuralNet">And here's my github repository with all the code. Just agree that you won't make fun of my spaghetti too badly.</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Thank you for reading,</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Benjamin Hawley</p>
+<p><!-- /wp:paragraph --></p>
