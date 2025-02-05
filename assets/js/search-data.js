@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-489-third-thumb",
+            },{id: "post-day-492-writing-battle-2",
+      
+        title: "Day 492: Writing Battle 2!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/04/day-492-writing-battle-2/";
+        
+      },
+    },{id: "post-day-489-third-thumb",
       
         title: "Day 489: Third Thumb",
       
