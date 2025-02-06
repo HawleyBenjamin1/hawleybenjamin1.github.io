@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-492-writing-battle-2",
+            },{id: "post-day-493-blog-migration-continues",
+      
+        title: "Day 493: Blog Migration Continues",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/05/day-493-blog-migration-continues/";
+        
+      },
+    },{id: "post-day-492-writing-battle-2",
       
         title: "Day 492: Writing Battle 2!",
       
