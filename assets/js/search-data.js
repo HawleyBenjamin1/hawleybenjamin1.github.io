@@ -37,7 +37,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-294-the-writing-battle-starts-soon",
+            },{id: "post-day-496-progress-update",
+      
+        title: "Day 496: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/10/day-496-progress-update/";
+        
+      },
+    },{id: "post-day-495-writing-battle-day-2",
+      
+        title: "Day 495: Writing Battle Day 2",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/07/day-295-writing-battle-day-2/";
+        
+      },
+    },{id: "post-day-294-the-writing-battle-starts-soon",
       
         title: "Day 294: The Writing Battle Starts Soon",
       
