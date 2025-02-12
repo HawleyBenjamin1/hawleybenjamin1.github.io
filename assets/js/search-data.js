@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-496-progress-update",
+            },{id: "post-day-497-judgement-cast",
+      
+        title: "Day 497: Judgement Cast!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/11/day-497-judgement-cast/";
+        
+      },
+    },{id: "post-day-496-progress-update",
       
         title: "Day 496: Progress Update",
       
@@ -70,6 +81,17 @@ ninja.data = [{
           window.location.href = "/2025/02/06/day-294-the-writing-battle-starts-soon/";
         
       },
+    },{id: "post-day-494-the-writing-battle-starts-soon",
+      
+        title: "Day 494: The Writing Battle Starts Soon",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/06/day-294-the-writing-battle-starts-soon/";
+        
+      },
     },{id: "post-day-493-blog-migration-continues",
       
         title: "Day 493: Blog Migration Continues",
@@ -90,6 +112,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2025/02/04/day-492-writing-battle-2/";
+        
+      },
+    },{id: "post-day-491-my-new-blog-site-is-ready",
+      
+        title: "Day 491: My New Blog Site is Ready!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/03/day-491-my-new-blog-site-is-ready/";
         
       },
     },{id: "post-day-489-third-thumb",
