@@ -81,17 +81,6 @@ ninja.data = [{
           window.location.href = "/2025/02/06/day-294-the-writing-battle-starts-soon/";
         
       },
-    },{id: "post-day-494-the-writing-battle-starts-soon",
-      
-        title: "Day 494: The Writing Battle Starts Soon",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2025/02/06/day-294-the-writing-battle-starts-soon/";
-        
-      },
     },{id: "post-day-493-blog-migration-continues",
       
         title: "Day 493: Blog Migration Continues",
