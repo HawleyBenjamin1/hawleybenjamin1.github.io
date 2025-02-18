@@ -37,7 +37,51 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-497-judgement-cast",
+            },{id: "post-day-501-busy-day-today",
+      
+        title: "Day 501: Busy Day Today",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/17/day-501-busy-day-today/";
+        
+      },
+    },{id: "post-day-500",
+      
+        title: "Day 500!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/14/day-500/";
+        
+      },
+    },{id: "post-day-499-made-it-to-round-4",
+      
+        title: "Day 499: Made it to Round 4",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/13/day-499-made-it-to-round-4/";
+        
+      },
+    },{id: "post-day-498-random-writing-blocks",
+      
+        title: "Day 498: Random Writing Blocks",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/12/day-498-random-writing-blocks/";
+        
+      },
+    },{id: "post-day-497-judgement-cast",
       
         title: "Day 497: Judgement Cast!",
       
