@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-502-sunset",
+            },{id: "post-day-503-snow-day",
+      
+        title: "Day 503: Snow Day!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/19/day-503-snow-day/";
+        
+      },
+    },{id: "post-day-502-sunset",
       
         title: "Day 502: Sunset",
       
