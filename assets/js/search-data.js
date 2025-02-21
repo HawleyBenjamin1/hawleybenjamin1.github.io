@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-503-snow-day",
+            },{id: "post-day-504-progress-update",
+      
+        title: "Day 504: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/20/day-504-progress-update/";
+        
+      },
+    },{id: "post-day-503-snow-day",
       
         title: "Day 503: Snow Day!",
       
