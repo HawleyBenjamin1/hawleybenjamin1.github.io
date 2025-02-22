@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-504-progress-update",
+            },{id: "post-day-505-twisted-tournament",
+      
+        title: "Day 505: Twisted Tournament",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/21/day-505-twisted-tournament/";
+        
+      },
+    },{id: "post-day-504-progress-update",
       
         title: "Day 504: Progress Update",
       
