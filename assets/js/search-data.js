@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-505-twisted-tournament",
+            },{id: "post-day-506-this-is-harder-than-i-expected",
+      
+        title: "Day 506: This is Harder Than I Expected",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/24/day-506-this-is-harder-than-i-expected/";
+        
+      },
+    },{id: "post-day-505-twisted-tournament",
       
         title: "Day 505: Twisted Tournament",
       
