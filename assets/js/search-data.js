@@ -37,7 +37,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-510-book-haul",
+            },{id: "post-day-511-blood-over-bright-haven-first-impressions",
+      
+        title: "Day 511: Blood Over Bright Haven First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/03/day-511-blood-over-bright-haven-first-impressions/";
+        
+      },
+    },{id: "post-day-510-book-haul",
       
         title: "Day 510: Book Haul!",
       
