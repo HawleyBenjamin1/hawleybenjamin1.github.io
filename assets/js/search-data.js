@@ -37,7 +37,51 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-506-this-is-harder-than-i-expected",
+            },{id: "post-day-510-book-haul",
+      
+        title: "Day 510: Book Haul!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/28/day-510-book-haul/";
+        
+      },
+    },{id: "post-day-509-shadow",
+      
+        title: "Day 509: Shadow",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/27/day-509-shadow/";
+        
+      },
+    },{id: "post-day-508-update-on-jeffries",
+      
+        title: "Day 508: Update on Jeffries",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/26/day-508-update-on-jeffries/";
+        
+      },
+    },{id: "post-day-507-goodbye-finn",
+      
+        title: "Day 507: Goodbye Finn",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/25/day-507-goodbye-finn/";
+        
+      },
+    },{id: "post-day-506-this-is-harder-than-i-expected",
       
         title: "Day 506: This is Harder Than I Expected",
       
