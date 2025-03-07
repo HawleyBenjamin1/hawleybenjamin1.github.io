@@ -37,7 +37,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-511-blood-over-bright-haven-first-impressions",
+            },{id: "post-day-514-pitch-letter",
+      
+        title: "Day 514: Pitch Letter",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/06/day-514-pitch-letter/";
+        
+      },
+    },{id: "post-day-513-blood-over-bright-haven",
+      
+        title: "Day 513: Blood Over Bright Haven",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/05/day-513-blood-over-bright-haven/";
+        
+      },
+    },{id: "post-day-512-the-hidden-girl-and-other-stories",
+      
+        title: "Day 512: The Hidden Girl and Other Stories",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/04/day-512-the-hidden-girl-and-other-stories/";
+        
+      },
+    },{id: "post-day-511-blood-over-bright-haven-first-impressions",
       
         title: "Day 511: Blood Over Bright Haven First Impressions",
       
