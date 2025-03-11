@@ -37,7 +37,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-514-pitch-letter",
+            },{id: "post-day-516-writing-battle-results",
+      
+        title: "Day 516: Writing Battle Results",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/10/day-516-writing-battle-results/";
+        
+      },
+    },{id: "post-day-515-made-it-to-finals",
+      
+        title: "Day 515: Made it to Finals!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/07/day-515-made-it-to-finals/";
+        
+      },
+    },{id: "post-day-514-pitch-letter",
       
         title: "Day 514: Pitch Letter",
       
