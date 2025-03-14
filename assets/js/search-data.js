@@ -37,7 +37,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-516-writing-battle-results",
+            },{id: "post-day-519-progress-update",
+      
+        title: "Day 519: Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/13/day-519-progress-update/";
+        
+      },
+    },{id: "post-day-518-accuracy-by-volume",
+      
+        title: "Day 518: Accuracy by Volume",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/12/day-518-accuracy-by-volume/";
+        
+      },
+    },{id: "post-day-517-agent-queries",
+      
+        title: "Day 517: Agent Queries",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/11/day-517-agent-queries/";
+        
+      },
+    },{id: "post-day-516-writing-battle-results",
       
         title: "Day 516: Writing Battle Results",
       
