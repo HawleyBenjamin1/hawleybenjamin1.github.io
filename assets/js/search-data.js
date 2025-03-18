@@ -37,7 +37,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-519-progress-update",
+            },{id: "post-day-521-winter-writing-battle",
+      
+        title: "Day 521: Winter Writing Battle",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/17/day-521-winter-writing-battle/";
+        
+      },
+    },{id: "post-day-520-the-gods-will-not-be-chained",
+      
+        title: "Day 520: The Gods Will Not Be Chained",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/14/day-520-the-gods-will-not-be-chained/";
+        
+      },
+    },{id: "post-day-519-progress-update",
       
         title: "Day 519: Progress Update",
       
