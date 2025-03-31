@@ -37,7 +37,117 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-day-521-winter-writing-battle",
+            },{id: "post-day-531-the-ferryman-first-impressions",
+      
+        title: "Day 531: The Ferryman First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/31/day-531-the-ferryman-first-impressions/";
+        
+      },
+    },{id: "post-day-530-happy-friday",
+      
+        title: "Day 530: Happy Friday",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/28/day-530-happy-friday/";
+        
+      },
+    },{id: "post-day-529-morphotrophic",
+      
+        title: "Day 529: Morphotrophic",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/27/day-529-morphotrophic/";
+        
+      },
+    },{id: "post-day-528-short-progress-update",
+      
+        title: "Day 528: Short Progress Update",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/26/day-528-short-progress-update/";
+        
+      },
+    },{id: "post-day-527-late-night-post",
+      
+        title: "Day 527: Late Night Post!",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/25/day-527-late-night-post/";
+        
+      },
+    },{id: "post-day-526-morphotrophic-first-impressions",
+      
+        title: "Day 526: Morphotrophic First Impressions",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/24/day-526-morphotrophic-first-impressions/";
+        
+      },
+    },{id: "post-day-525-the-gods-have-not-died-in-vain",
+      
+        title: "Day 525: The Gods Have Not Died in Vain",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/21/day-525-the-gods-have-not-died-in-vain/";
+        
+      },
+    },{id: "post-day-524-all-systems-red",
+      
+        title: "Day 524: All Systems Red",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/20/day-524-all-systems-red/";
+        
+      },
+    },{id: "post-day-523-the-gods-will-not-be-slain",
+      
+        title: "Day 523: The Gods Will Not Be Slain",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/19/day-523-the-gods-will-not-be-slain/";
+        
+      },
+    },{id: "post-day-522-jeffries-problem",
+      
+        title: "Day 522: Jeffries Problem",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/03/18/day-522-jeffries-problem/";
+        
+      },
+    },{id: "post-day-521-winter-writing-battle",
       
         title: "Day 521: Winter Writing Battle",
       
